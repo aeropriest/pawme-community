@@ -3,134 +3,78 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>r/PawMeBot - AI Wheeled Pet Companion Robot</title>
+    <title>r/PawMeBot</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600&display=swap');
-        body { font-family: 'Inter', system_ui, sans-serif; }
-        .header-font { font-family: 'Space Grotesk', sans-serif; }
-        .reddit-orange { color: #FF4500; }
-        .post-hover:hover { background-color: #1A1A1B; }
-        .sidebar { background: linear-gradient(180deg, #1A1A1B, #0F0F10); }
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap');
+        body { font-family: 'Inter', system_ui, sans-serif; background:#0A0A0A; color:#D7DADC; }
+        .header { font-family: 'Space Grotesk', sans-serif; }
+        .post { transition: all 0.2s; }
+        .post:hover { background-color: #1A1A1B; }
     </style>
 </head>
-<body class="bg-[#0F0F10] text-gray-300">
-    <div class="max-w-[1200px] mx-auto flex">
-        <!-- Main Feed -->
-        <div class="flex-1 max-w-[640px] border-r border-gray-800 min-h-screen">
-            <!-- Top Bar -->
-            <div class="bg-[#1A1A1B] border-b border-gray-800 sticky top-0 z-50">
-                <div class="px-4 py-3 flex items-center justify-between">
-                    <div class="flex items-center gap-3">
-                        <div class="w-10 h-10 bg-orange-600 rounded-full flex items-center justify-center text-2xl">🐾</div>
+<body class="min-h-screen">
+    <div class="max-w-5xl mx-auto flex">
+        <!-- Feed -->
+        <div class="flex-1 border-r border-gray-800">
+            <div class="bg-[#1A1A1B] sticky top-0 z-10 border-b border-gray-800">
+                <div class="px-6 py-4 flex items-center justify-between">
+                    <div class="flex items-center gap-4">
+                        <div class="text-4xl">🐾</div>
                         <div>
-                            <div class="header-font text-2xl font-semibold text-white">r/PawMeBot</div>
-                            <div class="text-xs text-green-400 flex items-center gap-1">
-                                <div class="w-2 h-2 bg-green-400 rounded-full animate-pulse"></div>
-                                12,458 members • 347 online
-                            </div>
+                            <div class="header text-3xl font-bold text-white">r/PawMeBot</div>
+                            <div class="text-xs text-emerald-400">14.9k members • 421 online</div>
                         </div>
                     </div>
-                    <div class="flex items-center gap-4 text-sm">
-                        <button onclick="createPost()" 
-                                class="bg-[#FF4500] hover:bg-orange-600 px-6 py-1.5 rounded-full font-medium text-white flex items-center gap-2">
-                            <i class="fas fa-plus"></i> CREATE POST
-                        </button>
-                        <div class="w-8 h-8 bg-gray-700 rounded-full flex items-center justify-center cursor-pointer hover:bg-gray-600">
-                            👤
-                        </div>
-                    </div>
-                </div>
-                
-                <!-- Tabs -->
-                <div class="flex border-b border-gray-800 text-sm">
-                    <div class="px-6 py-3 border-b-2 border-[#FF4500] text-white font-medium flex items-center gap-2">
-                        <i class="fas fa-fire"></i> HOT
-                    </div>
-                    <div class="px-6 py-3 text-gray-400 hover:text-gray-200 cursor-pointer flex items-center gap-2">
-                        <i class="fas fa-clock"></i> NEW
-                    </div>
-                    <div class="px-6 py-3 text-gray-400 hover:text-gray-200 cursor-pointer flex items-center gap-2">
-                        <i class="fas fa-star"></i> TOP
-                    </div>
+                    <button onclick="createPost()" 
+                            class="bg-[#FF4500] px-6 py-2 rounded-full text-sm font-bold hover:bg-orange-600">
+                        + CREATE POST
+                    </button>
                 </div>
             </div>
 
-            <!-- Posts Feed -->
-            <div class="divide-y divide-gray-800">
-                <!-- Post 1 -->
-                <div class="post-hover p-4 cursor-pointer" onclick="viewPost(1)">
+            <div class="p-4 space-y-6">
+                <div class="post bg-[#161618] rounded-xl p-5 cursor-pointer" onclick="viewPost()">
                     <div class="flex gap-4">
-                        <div class="flex flex-col items-center w-12 text-center">
-                            <i class="fas fa-arrow-up text-orange-500 text-xl"></i>
-                            <div class="font-bold text-lg text-white my-1">248</div>
-                            <i class="fas fa-arrow-down text-gray-500 text-xl"></i>
+                        <div class="text-center w-12">
+                            <div class="text-orange-500 text-3xl">▲</div>
+                            <div class="font-bold text-2xl text-white my-1">428</div>
                         </div>
                         <div class="flex-1">
-                            <div class="flex items-center gap-2 text-xs text-gray-400 mb-2">
-                                <span class="font-medium text-white">Posted by u/AshokJaiswal</span>
-                                <span>• 2h ago</span>
-                                <span class="bg-blue-900 text-blue-300 px-2 py-0.5 rounded text-[10px]">PROTOTYPE</span>
+                            <div class="text-xs text-gray-400 mb-2">Posted by u/AshokJaiswal • 4h ago • Prototype Update</div>
+                            <div class="text-xl font-semibold text-white mb-3">
+                                Tilting head mechanism is now fully working with emotion detection
                             </div>
-                            <div class="text-xl font-medium text-white leading-tight mb-3">
-                                First successful autonomous following test with the new ESP32 + camera setup 🐕
+                            <div class="text-gray-400 mb-4">
+                                The robot tilts its head when happy and shows different LED face expressions. 
+                                Full video from today's test attached.
                             </div>
-                            <div class="text-gray-400 text-sm mb-4">
-                                The tilting head + LED face expressions are working perfectly. Video in comments.
-                            </div>
-                            <div class="bg-black rounded-xl overflow-hidden border border-gray-700 mb-4">
-                                <img src="https://picsum.photos/id/1015/800/450" class="w-full h-auto" alt="PawMe following test">
-                            </div>
-                            <div class="flex items-center gap-6 text-sm text-gray-400">
-                                <div class="flex items-center gap-1.5">
-                                    <i class="fas fa-comment"></i>
-                                    <span>47</span>
-                                </div>
-                                <div class="flex items-center gap-1.5">
-                                    <i class="fas fa-share"></i>
-                                    <span>Share</span>
-                                </div>
-                                <div class="flex items-center gap-1.5">
-                                    <i class="fas fa-gift"></i>
-                                    <span>Award</span>
-                                </div>
+                            <img src="https://picsum.photos/id/1015/850/480" class="rounded-xl w-full" alt="PawMeBot">
+                            <div class="flex gap-8 mt-6 text-sm text-gray-400">
+                                <div>💬 94 comments</div>
+                                <div>🔁 Share on X</div>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- Post 2 -->
-                <div class="post-hover p-4 cursor-pointer" onclick="viewPost(2)">
+                <div class="post bg-[#161618] rounded-xl p-5 cursor-pointer" onclick="viewPost()">
                     <div class="flex gap-4">
-                        <div class="flex flex-col items-center w-12 text-center">
-                            <i class="fas fa-arrow-up text-orange-500 text-xl"></i>
-                            <div class="font-bold text-lg text-white my-1">184</div>
-                            <i class="fas fa-arrow-down text-gray-500 text-xl"></i>
+                        <div class="text-center w-12">
+                            <div class="text-orange-500 text-3xl">▲</div>
+                            <div class="font-bold text-2xl text-white my-1">291</div>
                         </div>
                         <div class="flex-1">
-                            <div class="flex items-center gap-2 text-xs text-gray-400 mb-2">
-                                <span class="font-medium text-white">Posted by u/AshokJaiswal</span>
-                                <span>• 14h ago</span>
-                                <span class="bg-purple-900 text-purple-300 px-2 py-0.5 rounded text-[10px]">BUILD LOG</span>
+                            <div class="text-xs text-gray-400 mb-2">Posted by u/AshokJaiswal • 2d ago • Build Archive</div>
+                            <div class="text-xl font-semibold text-white mb-3">
+                                Complete PawMeBot Build Archive (355 photos + 27 videos from WhatsApp &amp; Google Drive)
                             </div>
-                            <div class="text-xl font-medium text-white leading-tight mb-3">
-                                355+ build photos and 27 dev videos now organized. Here's the complete journey so far.
+                            <div class="text-gray-400">
+                                Everything from day 1 (BB-8 inspiration) until today is now organized and public.
                             </div>
-                            <div class="text-gray-400 text-sm mb-4 line-clamp-3">
-                                From the original BB-8 inspiration in 2023 to the current wheeled tilting-head version with AI vision. 
-                                Full Google Drive folder + WhatsApp backup archive included.
-                            </div>
-                            <div class="flex gap-2 text-xs">
-                                <div class="bg-gray-800 px-3 py-1 rounded-full">Hardware</div>
-                                <div class="bg-gray-800 px-3 py-1 rounded-full">AI Agent</div>
-                                <div class="bg-gray-800 px-3 py-1 rounded-full">DePIN</div>
-                            </div>
-                            <div class="flex items-center gap-6 text-sm text-gray-400 mt-4">
-                                <div class="flex items-center gap-1.5">
-                                    <i class="fas fa-comment"></i>
-                                    <span>31</span>
-                                </div>
+                            <div class="mt-4 inline-flex items-center gap-2 bg-gray-800 text-xs px-4 py-2 rounded-full">
+                                📁 Full Google Drive Archive
                             </div>
                         </div>
                     </div>
@@ -139,100 +83,37 @@
         </div>
 
         <!-- Sidebar -->
-        <div class="w-80 bg-[#1A1A1B] border-l border-gray-800 h-screen sticky top-0 overflow-auto">
-            <div class="p-4">
-                <!-- Community Info -->
-                <div class="sidebar rounded-2xl p-5 mb-6 border border-gray-700">
-                    <div class="flex items-center gap-3 mb-4">
-                        <div class="w-12 h-12 bg-gradient-to-br from-orange-500 to-amber-500 rounded-2xl flex items-center justify-center text-4xl shadow-inner">🐾</div>
-                        <div>
-                            <div class="header-font text-3xl font-bold text-white tracking-tight">PawMeBot</div>
-                            <div class="text-xs text-gray-400">by Ayva Labs</div>
-                        </div>
-                    </div>
-                    
-                    <div class="text-sm leading-relaxed text-gray-300 mb-6">
-                        Building the world's most lovable AI-powered wheeled pet companion robot. 
-                        Inspired by BB-8. Tilting head, expressive LED face, ESP32 + AI vision.
-                    </div>
-
-                    <div class="grid grid-cols-2 gap-4 text-center border-t border-gray-700 pt-4">
-                        <div>
-                            <div class="text-2xl font-bold text-white">12.4k</div>
-                            <div class="text-xs text-gray-400">MEMBERS</div>
-                        </div>
-                        <div>
-                            <div class="text-2xl font-bold text-white">347</div>
-                            <div class="text-xs text-gray-400">ONLINE</div>
-                        </div>
-                    </div>
-
-                    <button onclick="joinCommunity()" 
-                            class="w-full mt-6 bg-white text-black py-3 rounded-full font-semibold hover:bg-gray-200 transition">
-                        JOIN COMMUNITY
-                    </button>
+        <div class="w-80 bg-[#161618] p-6">
+            <div class="mb-8">
+                <div class="flex items-center gap-3 mb-4">
+                    <div class="text-5xl">🐾</div>
+                    <div class="header text-4xl font-bold text-white">PawMeBot</div>
                 </div>
-
-                <!-- About Ayva Labs -->
-                <div class="mb-8">
-                    <div class="text-xs uppercase tracking-widest text-gray-500 mb-3 px-1">ABOUT AYVA LABS</div>
-                    <div class="text-sm text-gray-400">
-                        Deeptech hardware + AI agents startup.<br>
-                        Building PawMe — an open-source AI pet robot with DePIN ambitions.
-                    </div>
-                    <a href="https://pawmebot.com" target="_blank" 
-                       class="text-orange-400 text-sm flex items-center gap-1 mt-4 hover:text-orange-300">
-                        pawmebot.com <i class="fas fa-external-link-alt text-xs"></i>
-                    </a>
-                </div>
-
-                <!-- Recent Milestones -->
-                <div>
-                    <div class="text-xs uppercase tracking-widest text-gray-500 mb-3 px-1">KEY MILESTONES</div>
-                    <div class="space-y-4 text-sm">
-                        <div class="flex gap-3">
-                            <div class="text-orange-400 font-mono text-xs pt-0.5">01</div>
-                            <div>Patent filed for tilting head mechanism</div>
-                        </div>
-                        <div class="flex gap-3">
-                            <div class="text-orange-400 font-mono text-xs pt-0.5">02</div>
-                            <div>Red Dot Award application submitted</div>
-                        </div>
-                        <div class="flex gap-3">
-                            <div class="text-orange-400 font-mono text-xs pt-0.5">03</div>
-                            <div>Partnership with Auki Network + Virtuals Protocol</div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Footer -->
-                <div class="text-[10px] text-gray-500 mt-16 px-1">
-                    Built with ❤️ for the PawMe community<br>
-                    Open source • Build in public
-                </div>
+                <p class="text-sm text-gray-400">Official community for the open-source AI wheeled pet companion robot by Ayva Labs.</p>
+            </div>
+            
+            <div class="text-xs uppercase text-gray-500 mb-3">About Ayva Labs</div>
+            <p class="text-sm text-gray-400 leading-relaxed">
+                Deeptech startup building PawMe — an expressive AI pet robot with tilting head, 
+                ESP32, camera, and DePIN ambitions. Build in public since 2023.
+            </p>
+            
+            <div class="mt-10 text-xs text-gray-500">
+                GitHub: <a href="https://github.com/ayvalabs" class="text-orange-400">ayvalabs</a><br>
+                Website: pawmebot.com<br><br>
+                Daily build logs • Photos • Videos • Research
             </div>
         </div>
     </div>
 
     <script>
         function createPost() {
-            alert("Post creation modal would open here.\n\nIn the real version this would let you post videos, build logs, and photos from your WhatsApp/Google Drive archive.");
+            alert("This is a demo page.\n\nWe will connect this to your real WhatsApp/Google Drive content for daily posting.");
         }
-        
-        function viewPost(id) {
-            if (id === 1) {
-                window.open('https://www.youtube.com/results?search_query=pawme+robot+following+test', '_blank');
-            } else {
-                alert("This would open the full post with all your build photos and videos.\n\nWe will connect this to your Google Drive + WhatsApp media archive soon.");
-            }
+        function viewPost() {
+            alert("This would open the full post with videos and photos from your archive.");
         }
-        
-        function joinCommunity() {
-            alert("Welcome to r/PawMeBot! 🎉\n\nIn the final version this would connect to Discord, Telegram, and X.");
-        }
-        
-        // Tailwind script already loaded via CDN
-        console.log('%c✓ r/PawMeBot community page initialized', 'color:#FF4500; font-weight:bold');
+        console.log("%c✅ r/PawMeBot page loaded successfully", "color:#FF4500;font-weight:bold");
     </script>
 </body>
 </html>
