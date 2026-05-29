@@ -87,34 +87,58 @@ export default function MediaPage() {
 
           <div style={{
             display: 'grid',
-            gridTemplateColumns: 'repeat(auto-fill, minmax(100px, 1fr))',
-            gap: 8,
+            gridTemplateColumns: 'repeat(auto-fill, minmax(140px, 1fr))',
+            gap: 12,
           }}>
-            {media.map((m, i) => (
-              <div key={i} style={{
-                aspectRatio: 1,
-                borderRadius: 8,
-                background: 'var(--bg-tertiary)',
-                border: '1px solid var(--border-color)',
-                display: 'flex',
-                flexDirection: 'column',
-                alignItems: 'center',
-                justifyContent: 'center',
-                fontSize: 20,
-                padding: 8,
-              }}>
-                <span>{m.type === 'video' ? '🎥' : '📷'}</span>
-                <span style={{
-                  fontSize: 8,
-                  color: 'var(--text-muted)',
-                  marginTop: 4,
-                  textAlign: 'center',
-                  wordBreak: 'break-all',
+            {media.map((m, i) => {
+              const fileUrl = `/media/${m.filename}`;
+              return (
+                <div key={i} style={{
+                  aspectRatio: 1,
+                  borderRadius: 8,
+                  background: 'var(--bg-tertiary)',
+                  border: '1px solid var(--border-color)',
+                  overflow: 'hidden',
+                  position: 'relative',
                 }}>
-                  {m.filename.split('-')[0]}
-                </span>
-              </div>
-            ))}
+                  {m.type === 'video' ? (
+                    <video
+                      src={fileUrl}
+                      controls
+                      preload="metadata"
+                      style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                    />
+                  ) : (
+                    <a
+                      href={fileUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style={{ display: 'block', width: '100%', height: '100%' }}
+                    >
+                      <img
+                        src={fileUrl}
+                        alt={m.filename}
+                        loading="lazy"
+                        style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                      />
+                    </a>
+                  )}
+                  <div style={{
+                    position: 'absolute',
+                    bottom: 0, left: 0, right: 0,
+                    background: 'rgba(0,0,0,0.6)',
+                    padding: '4px 6px',
+                    fontSize: 8,
+                    color: '#fff',
+                    textAlign: 'center',
+                    wordBreak: 'break-all',
+                    pointerEvents: 'none',
+                  }}>
+                    {m.filename.split('-')[0]}
+                  </div>
+                </div>
+              );
+            })}
           </div>
 
           <p style={{
