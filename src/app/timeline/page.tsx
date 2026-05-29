@@ -1,4 +1,5 @@
 import { getTimelineEvents } from '@/lib/community-store';
+import { SEED_TIMELINE } from '@/lib/seed-data';
 
 const CATEGORY_STYLES: Record<string, { icon: string; color: string; label: string }> = {
   prototype: { icon: '🔧', color: '#ff4500', label: 'Prototype' },
@@ -12,56 +13,34 @@ const CATEGORY_STYLES: Record<string, { icon: string; color: string; label: stri
   milestone: { icon: '🎯', color: '#ef4444', label: 'Milestone' },
 };
 
-async function TimelinePage() {
+export default async function TimelinePage() {
   let events: Awaited<ReturnType<typeof getTimelineEvents>> = [];
+  let usingFallback = false;
+  
   try {
     events = await getTimelineEvents({ limit: 50 });
   } catch {
-    // Firebase not configured yet
+    events = [];
+  }
+  
+  if (events.length === 0) {
+    events = SEED_TIMELINE as any;
+    usingFallback = true;
   }
 
-  const demoEvents = events.length === 0 ? [
-    {
-      id: 'tl-1', date: '2026-05-20', title: 'Community page development begins',
-      description: 'Started building the PawMe Community site — a Reddit-style hub for sharing the entire build journey with the world.',
-      category: 'software' as const, sourceType: 'dev_log' as const, createdAt: '2026-05-20T00:00:00Z',
-    },
-    {
-      id: 'tl-2', date: '2026-04-15', title: 'Partnership: Auki Network announced 🤝',
-      description: 'PawMe partners with Auki Network for decentralized spatial computing — giving PawMe awareness of its environment.',
-      category: 'partnership' as const, sourceType: 'meeting_notes' as const, createdAt: '2026-04-15T00:00:00Z',
-    },
-    {
-      id: 'tl-3', date: '2026-04-01', title: '$AYVA token launched on Base 🚀',
-      description: 'Virtuals Protocol partnership brings the $AYVA token to the Base ecosystem, enabling community governance.',
-      category: 'milestone' as const, sourceType: 'press' as const, createdAt: '2026-04-01T00:00:00Z',
-    },
-    {
-      id: 'tl-4', date: '2026-03-20', title: 'Red Dot Award application submitted 🏆',
-      description: 'Submitted PawMe for the Red Dot Design Award — a major milestone for the industrial design work by Ameya Mistry.',
-      category: 'award' as const, sourceType: 'dev_log' as const, createdAt: '2026-03-20T00:00:00Z',
-    },
-    {
-      id: 'tl-5', date: '2026-02-28', title: 'Kickstarter campaign prep begins',
-      description: 'Started preparing for the March 2026 Kickstarter launch — campaign page, media assets, and early bird pricing.',
-      category: 'milestone' as const, sourceType: 'meeting_notes' as const, createdAt: '2026-02-28T00:00:00Z',
-    },
-    {
-      id: 'tl-6', date: '2026-02-10', title: 'Prototype v4: Camera + LED face working',
-      description: 'Integrated ESP32-CAM with the LED matrix face. First time PawMe could &quot;see&quot; and express emotions simultaneously.',
-      category: 'prototype' as const, sourceType: 'dev_log' as const, createdAt: '2026-02-10T00:00:00Z',
-    },
-    {
-      id: 'tl-7', date: '2026-01-15', title: 'Industrial designer onboarded: Ameya Mistry 🎨',
-      description: 'Brought on Amoya Mistry for industrial design — transforming the prototype into a consumer-ready product.',
-      category: 'design' as const, sourceType: 'meeting_notes' as const, createdAt: '2026-01-15T00:00:00Z',
-    },
-    {
-      id: 'tl-8', date: '2025-12-01', title: 'Patent filed for tilting head mechanism',
-      description: 'Filed a provisional patent for the unique tilting head mechanism that gives PawMe its expressive personality.',
-      category: 'milestone' as const, sourceType: 'dev_log' as const, createdAt: '2025-12-01T00:00:00Z',
-    },
-  ] : events;
+  // Group by month
+  const grouped: Record<string, typeof events> = {};
+  for (const event of events) {
+    const month = event.date.substring(0, 7); // YYYY-MM
+    if (!grouped[month]) grouped[month] = [];
+    grouped[month].push(event);
+  }
+
+  const monthNames: Record<string, string> = {
+    '01': 'January', '02': 'February', '03': 'March', '04': 'April',
+    '05': 'May', '06': 'June', '07': 'July', '08': 'August',
+    '09': 'September', '10': 'October', '11': 'November', '12': 'December',
+  };
 
   return (
     <div style={{ maxWidth: 800, margin: '0 auto' }}>
@@ -70,77 +49,156 @@ async function TimelinePage() {
         <p style={{ color: 'var(--text-secondary)', fontSize: 15 }}>
           The complete journey of PawMe — from BB-8 inspired dream to AI companion robot
         </p>
+        <div style={{ display: 'flex', justifyContent: 'center', gap: 16, marginTop: 16, fontSize: 13, color: 'var(--text-muted)' }}>
+          <span>{events.length} events</span>
+          <span>•</span>
+          <span>July 2025 → Present</span>
+          <span>•</span>
+          <span>8 countries</span>
+        </div>
+        {usingFallback && (
+          <div style={{
+            background: 'rgba(245, 158, 11, 0.1)',
+            border: '1px solid rgba(245, 158, 11, 0.3)',
+            borderRadius: 8,
+            padding: '8px 16px',
+            marginTop: 16,
+            fontSize: 13,
+            color: '#f59e0b',
+            display: 'inline-block',
+          }}>
+            ⚠️ Showing offline data. Connect Firebase for real-time updates.
+          </div>
+        )}
       </div>
 
-      {/* Timeline */}
-      <div style={{ position: 'relative', paddingLeft: 32 }}>
-        {/* Vertical line */}
-        <div style={{
-          position: 'absolute',
-          left: 12,
-          top: 0,
-          bottom: 0,
-          width: 3,
-          background: 'linear-gradient(to bottom, var(--accent-green), var(--accent-blue), var(--accent-purple))',
-          borderRadius: 2,
-        }} />
-
-        {demoEvents.map((event, index) => {
-          const cat = CATEGORY_STYLES[event.category] || CATEGORY_STYLES.milestone;
+      {/* Category legend */}
+      <div style={{
+        display: 'flex',
+        flexWrap: 'wrap',
+        gap: 8,
+        justifyContent: 'center',
+        marginBottom: 32,
+      }}>
+        {Object.entries(CATEGORY_STYLES).map(([key, val]) => {
+          const count = events.filter(e => e.category === key).length;
+          if (count === 0) return null;
           return (
-            <div key={event.id} style={{ position: 'relative', marginBottom: 24 }}>
-              {/* Dot */}
-              <div style={{
-                position: 'absolute',
-                left: 6,
-                top: 4,
-                width: 15,
-                height: 15,
-                borderRadius: '50%',
-                background: cat.color,
-                border: `3px solid ${'var(--bg-primary)'}`,
-                zIndex: 1,
-              }} />
-
-              {/* Card */}
-              <div style={{
-                marginLeft: 28,
-                background: 'var(--bg-secondary)',
-                borderRadius: 10,
-                padding: '16px 20px',
-                border: '1px solid var(--border-color)',
-              }}>
-                <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 6 }}>
-                  <span style={{
-                    background: `${cat.color}20`,
-                    color: cat.color,
-                    padding: '3px 10px',
-                    borderRadius: 12,
-                    fontSize: 11,
-                    fontWeight: 700,
-                  }}>
-                    {cat.icon} {cat.label}
-                  </span>
-                  <span style={{ fontSize: 12, color: 'var(--text-muted)' }}>
-                    {new Date(event.date).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
-                  </span>
-                </div>
-                <h3 style={{ margin: '0 0 6px', fontSize: 16, fontWeight: 700 }}>{event.title}</h3>
-                <p style={{ margin: 0, fontSize: 14, color: 'var(--text-secondary)', lineHeight: 1.6 }}>
-                  {event.description}
-                </p>
-                {event.gitCommitUrl && (
-                  <a href={event.gitCommitUrl} style={{ fontSize: 12, marginTop: 8, display: 'inline-block' }}>
-                    View commit →
-                  </a>
-                )}
-              </div>
-            </div>
+            <span key={key} style={{
+              background: `${val.color}15`,
+              color: val.color,
+              padding: '4px 12px',
+              borderRadius: 12,
+              fontSize: 12,
+              fontWeight: 600,
+            }}>
+              {val.icon} {val.label} ({count})
+            </span>
           );
         })}
       </div>
+
+      {/* Timeline grouped by month */}
+      {Object.entries(grouped).sort(([a], [b]) => b.localeCompare(a)).map(([monthKey, monthEvents]) => {
+        const year = monthKey.substring(0, 4);
+        const month = monthKey.substring(5, 7);
+        const monthLabel = `${monthNames[month]} ${year}`;
+        
+        return (
+          <div key={monthKey} style={{ marginBottom: 32 }}>
+            <h2 style={{
+              fontSize: 18,
+              fontWeight: 700,
+              margin: '0 0 16px',
+              padding: '8px 16px',
+              background: 'var(--bg-secondary)',
+              borderRadius: 8,
+              border: '1px solid var(--border-color)',
+              position: 'sticky',
+              top: 0,
+              zIndex: 10,
+            }}>
+              {monthLabel}
+              <span style={{ fontSize: 13, fontWeight: 400, color: 'var(--text-muted)', marginLeft: 8 }}>
+                {monthEvents.length} events
+              </span>
+            </h2>
+
+            <div style={{ position: 'relative', paddingLeft: 32 }}>
+              {/* Vertical line */}
+              <div style={{
+                position: 'absolute',
+                left: 12,
+                top: 0,
+                bottom: 0,
+                width: 3,
+                background: 'linear-gradient(to bottom, var(--accent-orange), var(--accent-green), var(--accent-blue))',
+                borderRadius: 2,
+              }} />
+
+              {monthEvents.sort((a, b) => b.date.localeCompare(a.date)).map((event) => {
+                const cat = CATEGORY_STYLES[event.category] || CATEGORY_STYLES.milestone;
+                return (
+                  <div key={event.id} style={{ position: 'relative', marginBottom: 20 }}>
+                    {/* Dot */}
+                    <div style={{
+                      position: 'absolute',
+                      left: 6,
+                      top: 4,
+                      width: 15,
+                      height: 15,
+                      borderRadius: '50%',
+                      background: cat.color,
+                      border: `3px solid var(--bg-primary)`,
+                      zIndex: 1,
+                    }} />
+
+                    {/* Card */}
+                    <div style={{
+                      marginLeft: 28,
+                      background: 'var(--bg-secondary)',
+                      borderRadius: 10,
+                      padding: '16px 20px',
+                      border: '1px solid var(--border-color)',
+                    }}>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 6 }}>
+                        <span style={{
+                          background: `${cat.color}20`,
+                          color: cat.color,
+                          padding: '3px 10px',
+                          borderRadius: 12,
+                          fontSize: 11,
+                          fontWeight: 700,
+                        }}>
+                          {cat.icon} {cat.label}
+                        </span>
+                        <span style={{ fontSize: 12, color: 'var(--text-muted)' }}>
+                          {new Date(event.date).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
+                        </span>
+                        {event.sourceType && (
+                          <span style={{
+                            fontSize: 10,
+                            color: 'var(--text-muted)',
+                            background: 'var(--bg-tertiary)',
+                            padding: '2px 6px',
+                            borderRadius: 6,
+                          }}>
+                            {event.sourceType.replace('_', ' ')}
+                          </span>
+                        )}
+                      </div>
+                      <h3 style={{ margin: '0 0 6px', fontSize: 16, fontWeight: 700 }}>{event.title}</h3>
+                      <p style={{ margin: 0, fontSize: 14, color: 'var(--text-secondary)', lineHeight: 1.6 }}>
+                        {event.description}
+                      </p>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        );
+      })}
     </div>
   );
 }
-
-export default TimelinePage;
