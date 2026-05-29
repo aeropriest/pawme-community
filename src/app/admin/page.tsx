@@ -144,6 +144,7 @@ export default async function AdminPage() {
           { label: '📅 Timeline', href: '/admin/timeline', count: events.length },
           { label: '📱 Apps', href: '/admin/apps', count: apps.length },
           { label: '🖼️ Gallery', href: '/gallery', count: undefined },
+          { label: '📱 Social', href: '/admin/social', count: undefined },
         ].map(nav => (
           <Link key={nav.label} href={nav.href} style={{
             padding: '8px 16px',

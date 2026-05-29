@@ -1,0 +1,4402 @@
+{
+  "studioVideos": [
+    "normalized_01 - 6 1   Final Video Cut.mp4",
+    "normalized_02 - Manufacturing and Assembly.mp4",
+    "normalized_03 - Assembly.mp4",
+    "normalized_04 - mechanical assembly part1.mp4",
+    "normalized_05 - 5 3   open ai qa test and toggling.mp4",
+    "normalized_06 - 5 2   Running.mp4",
+    "normalized_07 - 5 1   Setup and testing.mp4",
+    "normalized_08 - 3 1   Firmware dev.mp4",
+    "normalized_09 - 3 2   Electronics design.mp4",
+    "normalized_10 - 3 3   Mechanical design.mp4",
+    "normalized_11 - 2 3   Mechanical concept.mp4",
+    "normalized_12 - 2 2   Electronics concept.mp4",
+    "normalized_14 - components and 3d parts.mp4",
+    "normalized_15 - WhatsApp Video 2025 11 13 at 12 49 01.mp4",
+    "normalized_16 - WhatsApp Video 2025 11 13 at 13 25 39.mp4",
+    "normalized_17 - WhatsApp Video 2025 11 13 at 12 39 52.mp4",
+    "normalized_18 - WhatsApp Video 2025 11 13 at 12 37 33.mp4",
+    "normalized_19 - WhatsApp Video 2025 11 13 at 12 30 26.mp4",
+    "normalized_20 - 20251120 104918 HD 5 128.mp4",
+    "normalized_21 - toggling back.mp4",
+    "normalized_22 - testing.mp4",
+    "normalized_23 - testing robot.mp4",
+    "normalized_24 - settings.mp4",
+    "normalized_25 - sd card setup.mp4",
+    "normalized_26 - sd card setup live.mp4",
+    "normalized_27 - robot power up.mp4",
+    "normalized_28 - reboot.mp4",
+    "normalized_29 - open ai qa.mp4",
+    "normalized_30 - open ai qa feature live.mp4",
+    "normalized_31 - speaker.mp4",
+    "normalized_32 - showcase of components pcb.mp4",
+    "normalized_33 - PCB Assembly.mp4",
+    "normalized_34 - mechanical assembly 2.mp4",
+    "normalized_35 - mechanical assembly 1.mp4",
+    "normalized_36 - intro.mp4",
+    "normalized_37 - 3 1   Firmware dev.mp4",
+    "normalized_38 - 3 1 1   Firmware extra.mp4",
+    "normalized_39 - 3 1 1   Firmware extra1.mp4",
+    "normalized_40 - 3 2   Electronics design.mp4",
+    "normalized_41 - 3 2   Electronics extra.mp4",
+    "normalized_42 - Electronics design extra1.mp4",
+    "normalized_43 - Firmware flashing.mp4",
+    "normalized_44 - speaker.mp4",
+    "normalized_45 - 3d parts video 2.mp4",
+    "normalized_46 - 3d parts video1.mp4",
+    "normalized_47 - camera.mp4",
+    "normalized_48 - components walkthrough.mp4",
+    "normalized_49 - Ending timelapse.mp4",
+    "normalized_50 - Firmware flashing.mp4",
+    "normalized_51 - Firmware flashing timelapse.mp4",
+    "normalized_52 - Talk to Axar founder - Part 1.mp4",
+    "normalized_53 - Talk to Axar founder - Part 2.mp4"
+  ],
+  "entries": [
+    {
+      "dayNumber": 0,
+      "date": "21/7/2025",
+      "dateLabel": "Jul 21, 2025",
+      "messageCount": 14,
+      "mediaCount": 1,
+      "participants": [
+        "Ashok Jaiswal",
+        "Prithu Hazarika",
+        "Sumit Dandekar"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000013-PHOTO-2025-07-21-17-51-47.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Rolling Robot - Pawme: \u200eMessages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them.\nAshok Jaiswal: @\u2068Prithu Hazarika\u2069 , can you make below thing? may be add Sumit to it as well, pls tell me how much will it cost - all mechanical, pcba and firmware code is available in the video description\nAshok Jaiswal: PCBA, Schematics, firmware - https://drive.google.com/drive/folders/1kDjNxRPIFhioJZheGN4Ns0RvkldiFyfA\nPrithu Hazarika: Yes, Ashok, this definitely can be built for sure.\nPrithu Hazarika: Let me get on a call with you and discuss this\nPrithu Hazarika: Will call you in 10 minutes okay ?",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 1,
+      "date": "22/7/2025",
+      "dateLabel": "Jul 22, 2025",
+      "messageCount": 3,
+      "mediaCount": 12,
+      "participants": [
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000017-PHOTO-2025-07-22-07-20-53.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000018-PHOTO-2025-07-22-07-20-53.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000019-PHOTO-2025-07-22-07-20-54.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000020-PHOTO-2025-07-22-07-20-54.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000021-PHOTO-2025-07-22-07-20-54.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000022-PHOTO-2025-07-22-07-20-54.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000023-PHOTO-2025-07-22-07-20-54.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000024-PHOTO-2025-07-22-07-20-54.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000025-PHOTO-2025-07-22-07-20-55.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000026-PHOTO-2025-07-22-07-20-55.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: Prithu - so we can have all the main PCBA on the top except the motos and wheels on the bottom, top pcba has wifi that uses AI or app to get movement command, we can have IR transmitter on it that sends movement command to bottom wheel and it moves\nAshok Jaiswal: This is how the Sphero patent is more or less, if made this whole assembly as full sphere and add the magnet on top, then we can get around that patent\nAshok Jaiswal: We can large battery at the bottom that also acts as weight to make the ball move and small battery on top,",
+      "pillar": "milestone",
+      "tags": [
+        "milestone"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 3,
+      "date": "24/7/2025",
+      "dateLabel": "Jul 24, 2025",
+      "messageCount": 17,
+      "mediaCount": 1,
+      "participants": [
+        "Prithu Hazarika",
+        "~\u202fHitesh",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000040-VIDEO-2025-07-24-13-24-18.mp4",
+          "type": "video"
+        }
+      ],
+      "summary": "Prithu Hazarika: The pattern that we were looking at today on our video call was registered by Disney.\n~\u202fHitesh: \u200ePrithu Hazarika added ~\u202fHitesh\n~\u202fHitesh: Thank you Prithu for adding me here.\nAshok Jaiswal: Hi @\u2068~Hitesh\u2069 ! Nice to meet you as well\nAshok Jaiswal: @\u2068~Hitesh\u2069 ! we are trying to make a rolling Robot like BB-8\nAshok Jaiswal: we want to make a very snappy video for this product to advertize on instagram/twitter and eventually use in kickstarter like below",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 4,
+      "date": "25/7/2025",
+      "dateLabel": "Jul 25, 2025",
+      "messageCount": 1,
+      "mediaCount": 1,
+      "participants": [
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000052-PHOTO-2025-07-25-20-47-55.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: @\u2068Ashok Jaiswal\u2069",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 5,
+      "date": "26/7/2025",
+      "dateLabel": "Jul 26, 2025",
+      "messageCount": 7,
+      "mediaCount": 1,
+      "participants": [
+        "Ashok Jaiswal",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000057-VIDEO-2025-07-26-12-53-42.mov",
+          "type": "video"
+        }
+      ],
+      "summary": "Ashok Jaiswal: Well done @\u2068~Hitesh\u2069 and @\u2068Prithu Hazarika\u2069 ! This is very good analysis\nPrithu Hazarika: @\u2068Ashok Jaiswal\u2069 -\nAshok Jaiswal: Good focus @\u2068Prithu Hazarika\u2069 !\nAshok Jaiswal: Yes that is correct direction\nAshok Jaiswal: Hi @\u2068Prithu Hazarika\u2069 ! So our next step is to come up with story board for video ?",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 6,
+      "date": "27/7/2025",
+      "dateLabel": "Jul 27, 2025",
+      "messageCount": 4,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: Couple of things @\u2068Prithu Hazarika\u2069 about https://www.youtube.com/watch?v=Utb22mwgFsI\nPrithu Hazarika: @\u2068Ashok Jaiswal\u2069 -\nPrithu Hazarika: 1). Yes I agree.\nPrithu Hazarika: That's a good point ,",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 7,
+      "date": "28/7/2025",
+      "dateLabel": "Jul 28, 2025",
+      "messageCount": 7,
+      "mediaCount": 1,
+      "participants": [
+        "Ashok Jaiswal",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000072-PHOTO-2025-07-28-17-47-27.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: Yes correct\nAshok Jaiswal: We need to add in the miro for each project\nPrithu Hazarika: Okay, got it.\nPrithu Hazarika: \u200eThis message was deleted.\nPrithu Hazarika: do let me know you thoughts.\nPrithu Hazarika: *UP NEXT :*",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 8,
+      "date": "29/7/2025",
+      "dateLabel": "Jul 29, 2025",
+      "messageCount": 4,
+      "mediaCount": 1,
+      "participants": [
+        "Ashok Jaiswal",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000076-VIDEO-2025-07-29-20-38-51.mp4",
+          "type": "video"
+        }
+      ],
+      "summary": "Ashok Jaiswal: built the multimodal AI model now\nPrithu Hazarika: Lovely this looks nice\nPrithu Hazarika: Are you running this locally or on a paid cloud server? \u200e<This message was edited>\nAshok Jaiswal: on the edge, we will use same but with camera and mic on the hardware instead of my laptop",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 14,
+      "date": "4/8/2025",
+      "dateLabel": "Aug 4, 2025",
+      "messageCount": 4,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: @\u2068Prithu Hazarika\u2069 !\nAshok Jaiswal: AI can give all the steps we need to take, then we estimate the cost of it also\nPrithu Hazarika: yes. I just spoke to Ajit regarding this.\nAshok Jaiswal: awesome, thanks",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 16,
+      "date": "6/8/2025",
+      "dateLabel": "Aug 6, 2025",
+      "messageCount": 3,
+      "mediaCount": 2,
+      "participants": [
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000087-PHOTO-2025-08-06-18-16-38.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000088-PHOTO-2025-08-06-18-17-04.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: EILIK launched an new version\nPrithu Hazarika: \u200eThis message was deleted.\nAshok Jaiswal: No doubt cute",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 32,
+      "date": "22/8/2025",
+      "dateLabel": "Aug 22, 2025",
+      "messageCount": 24,
+      "mediaCount": 4,
+      "participants": [
+        "Lalith Kumar",
+        "~\u202fVenky",
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000091-VIDEO-2025-08-22-09-36-30.mp4",
+          "type": "video"
+        },
+        {
+          "file": "00000099-VIDEO-2025-08-22-17-07-42.mp4",
+          "type": "video"
+        },
+        {
+          "file": "00000111-PHOTO-2025-08-22-20-27-01.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000120-PHOTO-2025-08-22-21-56-30.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Lalith Kumar: \u200ePrithu Hazarika added Lalith Kumar\n~\u202fVenky: \u200ePrithu Hazarika added ~\u202fVenky\nPrithu Hazarika: Hi Lalith and Venktesh,\nPrithu Hazarika: @\u2068Ashok Jaiswal\u2069\nAshok Jaiswal: Thanks Prithu and hello boys\nLalith Kumar: Hi Ashok, Lalith here. Nice to meet you.",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 33,
+      "date": "23/8/2025",
+      "dateLabel": "Aug 23, 2025",
+      "messageCount": 8,
+      "mediaCount": 2,
+      "participants": [
+        "Ashok Jaiswal",
+        "Prithu Hazarika",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000122-PHOTO-2025-08-23-06-25-27.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000123-PHOTO-2025-08-23-06-25-27.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: i sent you @\u2068Prithu Hazarika\u2069 photo of the battery already along with its dimentions\nPrithu Hazarika: Thanks for sharing this photo.\nPrithu Hazarika: @\u2068Ashok Jaiswal\u2069\nAshok Jaiswal: Let me check\nPrithu Hazarika: @\u2068Lalith Kumar\u2069\nLalith Kumar: Hi @\u2068Ashok Jaiswal\u2069 , I'm a bit occupied towards the end of the day today. Can we do this meet on monday? Please let me know a time and I'll share a gmeet link here. Thank you.",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 35,
+      "date": "25/8/2025",
+      "dateLabel": "Aug 25, 2025",
+      "messageCount": 16,
+      "mediaCount": 0,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Lalith Kumar: Hi @\u2068Ashok Jaiswal\u2069, let's connect at 12pm today. Hope that works for you.\nAshok Jaiswal: 12 is difficult, can do after 1pm\nAshok Jaiswal: Meanwhile pls keep me posted as well, if possible - record the video of what is working\nLalith Kumar: Yeah, we will first start with this meet. I'll give you complete details there\nLalith Kumar: Fine lets connect at 2pm today.\nLalith Kumar: Pls let me know if that is fine for you",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 36,
+      "date": "26/8/2025",
+      "dateLabel": "Aug 26, 2025",
+      "messageCount": 20,
+      "mediaCount": 2,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000151-PHOTO-2025-08-26-17-21-42.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000156-PHOTO-2025-08-26-17-42-31.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Lalith Kumar: Hi @\u2068Ashok Jaiswal\u2069, do u have credits for openAI?\nLalith Kumar: I need credits to test the OpenAI QA example-code.\nAshok Jaiswal: NEXT_PUBLIC_OPENAI_API_KEY=[REDACTED_API_KEY]\nLalith Kumar: Cool ,thanks\nAshok Jaiswal: pls check online how to do it\nAshok Jaiswal: what do you get from postman?",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 37,
+      "date": "27/8/2025",
+      "dateLabel": "Aug 27, 2025",
+      "messageCount": 9,
+      "mediaCount": 1,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000176-Firmware Requirements.pdf",
+          "type": "pdf"
+        }
+      ],
+      "summary": "Lalith Kumar: Hi @\u2068Ashok Jaiswal\u2069 , these 2 codes (OpenAI RTC, OpenAI QA) cannot be done as they are using totally different SDKs. As mentioned, OpenAI RTC is using ESP-IDF, and OpenAI QA is using Arduino iDE. We can now move ahead to further steps in the project and kick-start the dev process. Based on the features list for the Product, I can develop the firmware using these codes as a reference.\nAshok Jaiswal: What is the next feature you will work on?\nAshok Jaiswal: Sending the video and speech feed to OpenAI is the main feature of the project\nLalith Kumar: Please let me know a time for us to connect tomorrow. Would like to list down all the features.\nAshok Jaiswal: Siure, btw did you not get the below firmware features document?\nLalith Kumar: Thanks for this, I will review it. I sent a",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 38,
+      "date": "28/8/2025",
+      "dateLabel": "Aug 28, 2025",
+      "messageCount": 13,
+      "mediaCount": 3,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal",
+        "Sumit Dandekar",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000187-PHOTO-2025-08-28-20-20-54.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000188-PHOTO-2025-08-28-21-01-27.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000189-PHOTO-2025-08-28-21-03-18.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Lalith Kumar: \u200eThis message was deleted.\nLalith Kumar: Hi @\u2068Ashok Jaiswal\u2069 , I\u2019ll be sending a document that consists of the project requirements shortly. You can have a view at it and send your approval.\nAshok Jaiswal: @\u2068Sumit Dandekar\u2069 I have bought the parts for that esp32 ball but I don\u2019t know which part is which - I need you help to recognize them so that I can assemble them on pcb\nSumit Dandekar: @\u2068Ashok Jaiswal\u2069 please share the list/photo of components.\nAshok Jaiswal: Will send in couple of house\nAshok Jaiswal: Whole project is about camera, mic, speaker, wifi and wheels mostly",
+      "pillar": "manufacturing",
+      "tags": [
+        "manufacturing"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 39,
+      "date": "29/8/2025",
+      "dateLabel": "Aug 29, 2025",
+      "messageCount": 26,
+      "mediaCount": 13,
+      "participants": [
+        "Sumit Dandekar",
+        "Ashok Jaiswal",
+        "Prithu Hazarika",
+        "Lalith Kumar",
+        "~\u202fVenky"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000203-Rolling Robot - Requirement Document.docx.pdf",
+          "type": "pdf"
+        },
+        {
+          "file": "00000207-PHOTO-2025-08-29-16-11-17.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000209-PHOTO-2025-08-29-16-20-37.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000210-PHOTO-2025-08-29-16-20-37.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000211-PHOTO-2025-08-29-16-20-37.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000212-PHOTO-2025-08-29-16-20-37.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000213-PHOTO-2025-08-29-16-20-37.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000214-PHOTO-2025-08-29-16-20-51.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000215-PHOTO-2025-08-29-16-21-01.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000216-PHOTO-2025-08-29-16-21-15.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Sumit Dandekar: Please try placing all the components on one PCB without pasting solderpaste and share us the clear HD photo. We will correct you about the orientations if any. Also, we can guide you with individual components that you are not able to identify.\nAshok Jaiswal: seems like i do not have all the parts, can clearly see from the Bom, i could not order all parts\nAshok Jaiswal: please go ahead and order there in India if need to make this first\nPrithu Hazarika: @\u2068Ashok Jaiswal\u2069\nPrithu Hazarika: \u200eThis message was deleted.\nLalith Kumar: Hi @\u2068Ashok Jaiswal\u2069 , I'll be sending you the project requirements document now. Please go through it and get back to us. Once I receive an approval from your end, we will go ahead with the project right-away.",
+      "pillar": "manufacturing",
+      "tags": [
+        "manufacturing"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 40,
+      "date": "30/8/2025",
+      "dateLabel": "Aug 30, 2025",
+      "messageCount": 9,
+      "mediaCount": 3,
+      "participants": [
+        "Ashok Jaiswal",
+        "~\u202fVenky",
+        "Lalith Kumar",
+        "Sumit Dandekar"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000239-PHOTO-2025-08-30-15-19-33.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000243-PHOTO-2025-08-30-15-27-48.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000244-PHOTO-2025-08-30-15-28-29.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: @\u2068~Venky\u2069 pls check if anything missing\n~\u202fVenky: 10K is missing\nAshok Jaiswal: What is the difference between uf and pf? I found pf capaxtiroez\nAshok Jaiswal: Thanks @\u2068~Venky\u2069 ! You been very helpful\nAshok Jaiswal: This is good @\u2068Lalith Kumar\u2069 ! Thanks\nSumit Dandekar: 1000000pf = 1uF",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 42,
+      "date": "1/9/2025",
+      "dateLabel": "Sep 1, 2025",
+      "messageCount": 2,
+      "mediaCount": 0,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Lalith Kumar: Hi @\u2068Ashok Jaiswal\u2069 , all works this week will be initiated today according to the project plan. I'll keep you posted on further updates.",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 43,
+      "date": "2/9/2025",
+      "dateLabel": "Sep 2, 2025",
+      "messageCount": 1,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: pls do watch this video https://youtu.be/bkXNAJOuazo",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 44,
+      "date": "3/9/2025",
+      "dateLabel": "Sep 3, 2025",
+      "messageCount": 1,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: Hi @\u2068Lalith Kumar\u2069 ! Any updates?",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 45,
+      "date": "4/9/2025",
+      "dateLabel": "Sep 4, 2025",
+      "messageCount": 15,
+      "mediaCount": 1,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000266-VIDEO-2025-09-04-15-09-39.mp4",
+          "type": "video"
+        }
+      ],
+      "summary": "Lalith Kumar: Hi @\u2068Ashok Jaiswal\u2069 , So, audio_transcription is working fine and so is the image_answering. I\u2019ll send you a working demo video soon that consists of me talking over the microphone, audio_transcription taking place, and sending an image along with the txt for response from the OpenAI. Till here it is done and I'll have to integrate txt_to_speech. The problem with the DFROBOT OPEN_AI QA firmware was that, it was not at all working as expected and i had to create a new firmware and add one feature at a time.\nLalith Kumar: Coming to the hardware, we are expecting it to arrive tomorrow. Once we get them, our hardware team will assemble a circuit so that I can get the ESP-ROLL firmware working.\nAshok Jaiswal: look forward to the demo, let me add you to the github so we can collobr",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 46,
+      "date": "5/9/2025",
+      "dateLabel": "Sep 5, 2025",
+      "messageCount": 23,
+      "mediaCount": 2,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000288-PHOTO-2025-09-05-15-07-07.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000289-PHOTO-2025-09-05-15-07-07.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Lalith Kumar: Yeah sure, I will do it.\nLalith Kumar: So, the application can\u2019t work in this way. One is, the DFRobot OPENAI-QA Firmware works in the way as the demo in the video. Another thing is, not sure if we can implement such streaming with ESP32. We can save it for future versions.\nPrithu Hazarika: Looks great \ud83d\udc4d\ud83c\udffc\ud83c\udf3b\nLalith Kumar: You can invite me and I can upload the code there\nAshok Jaiswal: sent the invite, pls check\nLalith Kumar: I\u2019ll be pushing the code in a min, pls check.",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 47,
+      "date": "6/9/2025",
+      "dateLabel": "Sep 6, 2025",
+      "messageCount": 17,
+      "mediaCount": 1,
+      "participants": [
+        "Ashok Jaiswal",
+        "Lalith Kumar",
+        "Prithu Hazarika",
+        "Sumit Dandekar"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000299-PHOTO-2025-09-06-14-11-14.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: these are components for ESP-32 ball project?\nLalith Kumar: @\u2068Ashok Jaiswal\u2069 received the required components for the ESP-32 Ball project.\nAshok Jaiswal: oh nice, well done\nAshok Jaiswal: btw did you push the code in the github already?\nLalith Kumar: Yeah, I pushed the OPEN_AI_QA firmware\nAshok Jaiswal: these parts look different and much fewer than i got - battery seems too big and no PCBA?",
+      "pillar": "manufacturing",
+      "tags": [
+        "manufacturing"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 48,
+      "date": "7/9/2025",
+      "dateLabel": "Sep 7, 2025",
+      "messageCount": 2,
+      "mediaCount": 0,
+      "participants": [
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [],
+      "summary": "Prithu Hazarika: @\u2068Ashok Jaiswal\u2069\nPrithu Hazarika: Need your help with sourcing this - since this can become a bottleneck later !",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 49,
+      "date": "8/9/2025",
+      "dateLabel": "Sep 8, 2025",
+      "messageCount": 5,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: Sure, continue focus on pcba meanwhile\nAshok Jaiswal: what about the 3D parts and PCBA ?\nAshok Jaiswal: fully assebled robot would function without the ball just as good\nPrithu Hazarika: 3-D parts and PCBA do not have any issue\nPrithu Hazarika: Okay, noted",
+      "pillar": "manufacturing",
+      "tags": [
+        "manufacturing"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 50,
+      "date": "9/9/2025",
+      "dateLabel": "Sep 9, 2025",
+      "messageCount": 31,
+      "mediaCount": 3,
+      "participants": [
+        "Ashok Jaiswal",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000322-PHOTO-2025-09-09-13-01-57.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000329-Rakesh Raparthi.vcf",
+          "type": "contact"
+        },
+        {
+          "file": "00000350-PHOTO-2025-09-09-19-52-07.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: Pls assemble at least 2 units for me and give it back to him to bring to Hong Kong, he will leave on Hyderabad on Wednesday\nPrithu Hazarika: Can you tell me how many transparent balls you have sent?\nAshok Jaiswal: You can keep the balls, I only need fully assembled pcba\nAshok Jaiswal: Motor drivers missing - there was typhoon here so it was not shipped\nAshok Jaiswal: You have motor drivers?\nAshok Jaiswal: Message him for address pls",
+      "pillar": "manufacturing",
+      "tags": [
+        "manufacturing"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 51,
+      "date": "10/9/2025",
+      "dateLabel": "Sep 10, 2025",
+      "messageCount": 3,
+      "mediaCount": 0,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Lalith Kumar: Yeah, we are adding all these things in the progress report. Electronics part has not been updated yet, but, in the meantime, you can have a look at what happened in the past 2 weeks in the product-design and firmware sections. Clear videos and images are attached.\nLalith Kumar: @\u2068Ashok Jaiswal\u2069 , the progress report is updated, pls take a look\nAshok Jaiswal: thanks, will check",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 53,
+      "date": "12/9/2025",
+      "dateLabel": "Sep 12, 2025",
+      "messageCount": 5,
+      "mediaCount": 1,
+      "participants": [
+        "Ashok Jaiswal",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000362-Rakesh Raparthi.vcf",
+          "type": "contact"
+        }
+      ],
+      "summary": "Ashok Jaiswal: @\u2068Lalith Kumar\u2069 ! Please contact him on Saturday to get his address and then take the Ola taxi to pick up the parts from him - he has all the parts to make ESP-32 ball (pcba, motor, battery, resisters, capacitor, plastic ball etc) except 3D prints\nAshok Jaiswal: He will leave Hyderabad on 17th September- pls make sure you assemble at least 2 units and take ola cab and go back there and give him those 2 units to bring back to Hong Kong\nAshok Jaiswal: This is what you need to do, pls see if you can find soldering paste locally, buy it today itself\nLalith Kumar: Sure I\u2019ll do that",
+      "pillar": "manufacturing",
+      "tags": [
+        "manufacturing"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 54,
+      "date": "13/9/2025",
+      "dateLabel": "Sep 13, 2025",
+      "messageCount": 1,
+      "mediaCount": 0,
+      "participants": [
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [],
+      "summary": "Lalith Kumar: A glimpse of the Remote control feature of the Rolling Robot",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 55,
+      "date": "14/9/2025",
+      "dateLabel": "Sep 14, 2025",
+      "messageCount": 5,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: Thanks @\u2068Lalith Kumar\u2069 for picking up the components and sweta\nAshok Jaiswal: He will leave Hyderabad on Friday, pls at least assemble 2 ESP-32 balls and send back to me for my trip week after\nAshok Jaiswal: If you don\u2019t need other remaining components, send them back to me - specially stencil - I need it here to make a video to replicate the process\nAshok Jaiswal: You also pls replicate the whole process in a nice video for marketing",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 56,
+      "date": "15/9/2025",
+      "dateLabel": "Sep 15, 2025",
+      "messageCount": 3,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: Thanks, btw did you find the soldering paste ? Syringe?\nAshok Jaiswal: Also pls take photos of that bread board",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 57,
+      "date": "16/9/2025",
+      "dateLabel": "Sep 16, 2025",
+      "messageCount": 15,
+      "mediaCount": 1,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000393-PHOTO-2025-09-16-18-31-00.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Lalith Kumar: Hi @\u2068Ashok Jaiswal\u2069 , we found some missing components and wrong components in the package you sent us for the assembly of ESP-ROLL device. Below is the list : 1. DRV8833 Driver : Wrong part number\nAshok Jaiswal: Thanks, btw I send the sd card before\nLalith Kumar: I see, we will have a look once. But, SD card is not a major issue, usually we can get it at nearby stores. The major concern lies with the ESP Sense MCU which is not available in immediate time.\nAshok Jaiswal: can it work without that MCU? something i can soldier here myself?\nLalith Kumar: We cannot test anything without the MCU. Maybe we could just solder whatever components are there and send you.\nLalith Kumar: And the Received Motor Driver too is a wrong one. For now, we are de-soldering from a existing Componen",
+      "pillar": "manufacturing",
+      "tags": [
+        "manufacturing"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 58,
+      "date": "17/9/2025",
+      "dateLabel": "Sep 17, 2025",
+      "messageCount": 21,
+      "mediaCount": 2,
+      "participants": [
+        "Ashok Jaiswal",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000406-PHOTO-2025-09-17-23-33-11.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000410-PHOTO-2025-09-17-23-34-18.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: Only make 1 - not 10\nAshok Jaiswal: Seems like firmware working fine on this pcba\nAshok Jaiswal: 10 is for our pcba and design\nAshok Jaiswal: Did we take any photos video of putting the soldering paste and hot gun etc\nPrithu Hazarika: I meant to say -\nPrithu Hazarika: Also, the motors, pcb are not assembling inside the plastic parts easily \u2026.",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 59,
+      "date": "18/9/2025",
+      "dateLabel": "Sep 18, 2025",
+      "messageCount": 16,
+      "mediaCount": 0,
+      "participants": [
+        "Prithu Hazarika",
+        "Ashok Jaiswal",
+        "Sumit Dandekar",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [],
+      "summary": "Prithu Hazarika: @\u2068Ashok Jaiswal\u2069\nAshok Jaiswal: Very nice prithu, well done guys\nAshok Jaiswal: Seems like need to add more weight to avoid the bobble\nAshok Jaiswal: This is good enough for me to demo, now we can go back to original  project\nAshok Jaiswal: But pls do put the components on couple of PCBA with stencil and send this fully assembled unit and PCBA\nPrithu Hazarika: I have added the maximum number of weight. I could.",
+      "pillar": "manufacturing",
+      "tags": [
+        "manufacturing"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 60,
+      "date": "19/9/2025",
+      "dateLabel": "Sep 19, 2025",
+      "messageCount": 2,
+      "mediaCount": 0,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Lalith Kumar: @\u2068Ashok Jaiswal\u2069 , we have sent back to Rakesh 1 completely assembled unit of the ESP-ROLL and the remaining parts. But, we kept back 5 Spherical enclosures as we couldn\u2019t find them in India. Even for the 10units delivery, we will enclose 5 of them with the Spherical enclosure and the other 5 will be without the Spherical enclosure in proper working condition.\nAshok Jaiswal: You could keep all the spheres",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 61,
+      "date": "20/9/2025",
+      "dateLabel": "Sep 20, 2025",
+      "messageCount": 2,
+      "mediaCount": 0,
+      "participants": [
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Prithu Hazarika: @\u2068Ashok Jaiswal\u2069\nAshok Jaiswal: Thanks for update prithu",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 63,
+      "date": "22/9/2025",
+      "dateLabel": "Sep 22, 2025",
+      "messageCount": 2,
+      "mediaCount": 0,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Lalith Kumar: Hi @\u2068Ashok Jaiswal\u2069 , we have updated the project plan and we are updating the progress report. I'll let you know once that is done so that you can take a look. We are trying our best to get things done by the estimated timeline but, as said earlier, do except slight delays. Thank you.\nAshok Jaiswal: thanks Lalith",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 64,
+      "date": "23/9/2025",
+      "dateLabel": "Sep 23, 2025",
+      "messageCount": 2,
+      "mediaCount": 2,
+      "participants": [
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000447-PHOTO-2025-09-23-16-54-22.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000448-VIDEO-2025-09-23-16-54-22.mp4",
+          "type": "video"
+        }
+      ],
+      "summary": "Prithu Hazarika: The 3-D printed parts are here of the new mechanical design. \u200e<This message was edited>\nPrithu Hazarika: \u200eThis message was deleted.",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 66,
+      "date": "25/9/2025",
+      "dateLabel": "Sep 25, 2025",
+      "messageCount": 2,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: hi @\u2068Lalith Kumar\u2069 ! how is the progress with pcba?\nLalith Kumar: Hi @\u2068Ashok Jaiswal\u2069 , it's under development and will be finalised by tomorrow at max. Will provide complete updates tomorrow.",
+      "pillar": "manufacturing",
+      "tags": [
+        "manufacturing"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 68,
+      "date": "27/9/2025",
+      "dateLabel": "Sep 27, 2025",
+      "messageCount": 4,
+      "mediaCount": 4,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000456-PHOTO-2025-09-27-22-49-33.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000457-PHOTO-2025-09-27-22-50-25.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000459-PHOTO-2025-09-27-23-24-02.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000460-PHOTO-2025-09-27-23-24-03.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Lalith Kumar: Hi @~Ashok Jaiswal , the PCBA layout and Design are done. Procurement of the components is currently on-going. Will keep you posted on further updates. On Monday, you can view the project plan and I'll update you once I revise it along with the progress-report.\nAshok Jaiswal: Can i please see the dimension / design of the pcba pls\nAshok Jaiswal: And if possible, schematics too so I can make sure we covered everything\nPrithu Hazarika: @\u2068Sumit Dandekar\u2069",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 69,
+      "date": "28/9/2025",
+      "dateLabel": "Sep 28, 2025",
+      "messageCount": 1,
+      "mediaCount": 2,
+      "participants": [
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000461-PHOTO-2025-09-28-16-47-43.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000463-PHOTO-2025-09-28-16-49-03.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: @\u2068Lalith Kumar\u2069 pls see the error on top left - did you face it too?",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 70,
+      "date": "29/9/2025",
+      "dateLabel": "Sep 29, 2025",
+      "messageCount": 6,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: @\u2068Lalith Kumar\u2069 did you face it too?\nAshok Jaiswal: Can you help me with it pls? I have a demo tmr morning\nLalith Kumar: Hi @\u2068Ashok Jaiswal\u2069 , lets connect over a meet\nAshok Jaiswal: @\u2068Lalith Kumar\u2069 I don\u2019t see the game controller on the UI to move the ball\nLalith Kumar: So when u click on stream, in the stream window, it will be present to the top left corner",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 71,
+      "date": "30/9/2025",
+      "dateLabel": "Sep 30, 2025",
+      "messageCount": 2,
+      "mediaCount": 0,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Lalith Kumar: Hi @\u2068Ashok Jaiswal\u2069 , placing the order for components for the custom PCBs is done. By EOD, we will be done with ordering PCB boards and the mechanical design components for the 10 units. \u200e<This message was edited>",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 73,
+      "date": "2/10/2025",
+      "dateLabel": "Oct 2, 2025",
+      "messageCount": 1,
+      "mediaCount": 1,
+      "participants": [
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000473-PHOTO-2025-10-02-02-26-01.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: this i sgood design",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 78,
+      "date": "7/10/2025",
+      "dateLabel": "Oct 7, 2025",
+      "messageCount": 2,
+      "mediaCount": 0,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Lalith Kumar: Hi @\u2068Ashok Jaiswal\u2069 , we are expecting the PCBs to arrive in a couple of days and wrap up the assembly of the 10 units by end of this week. Will give you further updates on this.\nAshok Jaiswal: oh nice, thanks Lalith",
+      "pillar": "manufacturing",
+      "tags": [
+        "manufacturing"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 80,
+      "date": "9/10/2025",
+      "dateLabel": "Oct 9, 2025",
+      "messageCount": 3,
+      "mediaCount": 0,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Lalith Kumar: Hi @\u2068Ashok Jaiswal\u2069 , all the components for the 10 units have arrived and Venkatesh will be doing some basic checks. We are expecting the PCBs to arrive soon, will update you soon on this.\nAshok Jaiswal: thanks, pls send the photo\nAshok Jaiswal: need these photos for social media",
+      "pillar": "manufacturing",
+      "tags": [
+        "manufacturing"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 81,
+      "date": "10/10/2025",
+      "dateLabel": "Oct 10, 2025",
+      "messageCount": 1,
+      "mediaCount": 0,
+      "participants": [
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [],
+      "summary": "Lalith Kumar: will send them soon",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 82,
+      "date": "11/10/2025",
+      "dateLabel": "Oct 11, 2025",
+      "messageCount": 1,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: Thanks Lalith",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 83,
+      "date": "12/10/2025",
+      "dateLabel": "Oct 12, 2025",
+      "messageCount": 5,
+      "mediaCount": 35,
+      "participants": [
+        "Ashok Jaiswal",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000485-PHOTO-2025-10-12-17-19-14.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000486-PHOTO-2025-10-12-17-19-15.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000487-PHOTO-2025-10-12-17-19-16.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000489-PHOTO-2025-10-12-17-23-37.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000490-PHOTO-2025-10-12-17-23-38.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000493-PHOTO-2025-10-12-17-37-00.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000494-PHOTO-2025-10-12-17-37-01.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000495-PHOTO-2025-10-12-17-37-02.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000496-PHOTO-2025-10-12-17-37-02.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000497-PHOTO-2025-10-12-17-37-03.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: Hi @\u2068Lalith Kumar\u2069 ! Any photos / videos of things we working\nAshok Jaiswal: We need to post on social media\nPrithu Hazarika: More photos will follow soon.\nAshok Jaiswal: thanks Lalith\nPrithu Hazarika: @\u2068~Venky\u2069 thanks for sharing the images",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 84,
+      "date": "13/10/2025",
+      "dateLabel": "Oct 13, 2025",
+      "messageCount": 2,
+      "mediaCount": 10,
+      "participants": [
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000525-PHOTO-2025-10-13-19-12-13.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000526-PHOTO-2025-10-13-19-12-13.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000527-PHOTO-2025-10-13-19-12-13.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000528-PHOTO-2025-10-13-19-12-14.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000529-PHOTO-2025-10-13-19-12-14.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000530-PHOTO-2025-10-13-19-12-14.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000531-PHOTO-2025-10-13-19-12-15.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000532-PHOTO-2025-10-13-19-12-15.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000533-PHOTO-2025-10-13-19-12-15.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000534-PHOTO-2025-10-13-19-12-15.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: Thanks guys, this is appreciated\nAshok Jaiswal: It\u2019s helps a lot",
+      "pillar": "software",
+      "tags": [
+        "software"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 85,
+      "date": "14/10/2025",
+      "dateLabel": "Oct 14, 2025",
+      "messageCount": 10,
+      "mediaCount": 3,
+      "participants": [
+        "Ashok Jaiswal",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000537-PHOTO-2025-10-14-11-44-07.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000543-VIDEO-2025-10-14-21-56-13.mp4",
+          "type": "video"
+        },
+        {
+          "file": "00000544-VIDEO-2025-10-14-21-56-13.mp4",
+          "type": "video"
+        }
+      ],
+      "summary": "Lalith Kumar: Hopefully yes, I can give you a better clarity by end of today or tomorrow at max.\nLalith Kumar: We are currently assembling the first unit, its going fine but, we faced a couple of issues which are resolvable. Will update you further.\nAshok Jaiswal: sounds good, thanks lalith\nLalith Kumar: your welcome.\nAshok Jaiswal: so nice, well done boys\nAshok Jaiswal: this is so much more stable",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 86,
+      "date": "15/10/2025",
+      "dateLabel": "Oct 15, 2025",
+      "messageCount": 4,
+      "mediaCount": 1,
+      "participants": [
+        "Ashok Jaiswal",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000555-PHOTO-2025-10-15-09-53-52.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: pls prepare to send me to my home in delhi\nAshok Jaiswal: Ashok Jaiswal\nPrithu Hazarika: @\u2068Lalith Kumar\u2069",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 88,
+      "date": "17/10/2025",
+      "dateLabel": "Oct 17, 2025",
+      "messageCount": 10,
+      "mediaCount": 1,
+      "participants": [
+        "Ashok Jaiswal",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000560-PHOTO-2025-10-17-17-19-17.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: @\u2068Lalith Kumar\u2069 you sending it today?\nLalith Kumar: I\u2019ll update you as soon as i hand over the shipment to DTDC\nAshok Jaiswal: Thanks, how many units?\nLalith Kumar: Courier is booked\nLalith Kumar: So a couple of things\nAshok Jaiswal: Awesome - thank you",
+      "pillar": "manufacturing",
+      "tags": [
+        "manufacturing"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 90,
+      "date": "19/10/2025",
+      "dateLabel": "Oct 19, 2025",
+      "messageCount": 5,
+      "mediaCount": 1,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000570-VIDEO-2025-10-19-19-41-11.mp4",
+          "type": "video"
+        }
+      ],
+      "summary": "Lalith Kumar: @\u2068Ashok Jaiswal\u2069 pls let me know as soon as you receive the courier.\nAshok Jaiswal: nice, thanks Prithu\nAshok Jaiswal: can i pls have the tracking link for 2 units you sent\nAshok Jaiswal: they still not arrived and wondering if tmr is holiday anyway",
+      "pillar": "manufacturing",
+      "tags": [
+        "manufacturing"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 91,
+      "date": "20/10/2025",
+      "dateLabel": "Oct 20, 2025",
+      "messageCount": 10,
+      "mediaCount": 2,
+      "participants": [
+        "Lalith Kumar",
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000577-PHOTO-2025-10-20-13-44-52.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000580-PHOTO-2025-10-20-13-53-38.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Lalith Kumar: You can go to DTDC website\nLalith Kumar: And enter the shipping id\nPrithu Hazarika: \u200eThis message was deleted.\nPrithu Hazarika: V3500684991\nPrithu Hazarika: due Diwali holidays there has been some delay\nAshok Jaiswal: Yeah seems like it",
+      "pillar": "manufacturing",
+      "tags": [
+        "manufacturing"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 92,
+      "date": "21/10/2025",
+      "dateLabel": "Oct 21, 2025",
+      "messageCount": 15,
+      "mediaCount": 4,
+      "participants": [
+        "Ashok Jaiswal",
+        "Lalith Kumar",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000599-PHOTO-2025-10-21-21-19-22.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000600-PHOTO-2025-10-21-21-19-23.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000601-PHOTO-2025-10-21-21-19-43.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000602-PHOTO-2025-10-21-21-19-45.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: Guys I did not get the package :(\nAshok Jaiswal: I will have my nephew return it\nAshok Jaiswal: To you guys\nAshok Jaiswal: When can we have 2 new units ready?\nAshok Jaiswal: And did we get distance and temp sensors?\nAshok Jaiswal: My friend from HK in in Hyderabad",
+      "pillar": "firmware",
+      "tags": [
+        "firmware"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 93,
+      "date": "22/10/2025",
+      "dateLabel": "Oct 22, 2025",
+      "messageCount": 7,
+      "mediaCount": 2,
+      "participants": [
+        "Ashok Jaiswal",
+        "Lalith Kumar",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000612-PHOTO-2025-10-22-22-06-44.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000613-PHOTO-2025-10-22-22-06-45.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: oh then only send 2 units to my friend without the temp sensor, rest we wait\nAshok Jaiswal: can you finish aseembky by saturday to send to him in Hyrabad?\nLalith Kumar: Yeah, so, I\u2019m waiting for the enclosures to arrive. Looking to assemble all the units and update you with photographs and videos today.\nLalith Kumar: Once that is done, I can send couple of units immediately.\nAshok Jaiswal: nice, well done\nPrithu Hazarika: Thats lively Lalith",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 94,
+      "date": "23/10/2025",
+      "dateLabel": "Oct 23, 2025",
+      "messageCount": 12,
+      "mediaCount": 5,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000618-PHOTO-2025-10-23-11-43-44.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000625-PHOTO-2025-10-23-16-34-30.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000626-PHOTO-2025-10-23-16-34-30.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000627-PHOTO-2025-10-23-16-34-41.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000633-PHOTO-2025-10-23-16-51-17.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: also we need to chase down where the 2 units you sent me to delhi gone\nLalith Kumar: Yes, will do this today\nLalith Kumar: did your brother receive them in Delhi?\nLalith Kumar: I\u2019ll have a look at this\nAshok Jaiswal: my brother is away for diwali, will check with my mom\nLalith Kumar: All units are assembled and tested.",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 95,
+      "date": "24/10/2025",
+      "dateLabel": "Oct 24, 2025",
+      "messageCount": 5,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: lets talk today?\nAshok Jaiswal: Call me anytime\nAshok Jaiswal: Let\u2019s do it in 45min",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 98,
+      "date": "27/10/2025",
+      "dateLabel": "Oct 27, 2025",
+      "messageCount": 55,
+      "mediaCount": 2,
+      "participants": [
+        "Ashok Jaiswal",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000681-PHOTO-2025-10-27-13-31-10.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000682-PHOTO-2025-10-27-13-32-05.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: Morning Lalith!\nAshok Jaiswal: how are we doing with our samples now?\nLalith Kumar: They are on the way to your friend\u2019s place.\nLalith Kumar: The 2 units.\nLalith Kumar: and about the 2 units sent to your place in Delhi, it says its Delivered. Could you confirm it? and, a reverse booking can be done to our office place here so that we can pick it up.\nAshok Jaiswal: ok, now we waiting for the distance sensor and integrating the firmware with sensors?",
+      "pillar": "firmware",
+      "tags": [
+        "firmware"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 99,
+      "date": "28/10/2025",
+      "dateLabel": "Oct 28, 2025",
+      "messageCount": 6,
+      "mediaCount": 1,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000699-PHOTO-2025-10-28-14-28-59.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Lalith Kumar: @\u2068Ashok Jaiswal\u2069 , data from the sensors is coming as expected. You can take a look at it in the video. Distance and temperature are changing as expected\nLalith Kumar: Another thing, do add weight to the basement here so that the robot can roll well inside the sphere. I\u2019ll add it soon and send you a demo video.\nLalith Kumar: @\u2068Ashok Jaiswal\u2069 , can you share me your mail ID. I\u2019ll share the firmware file too. Thanks\nAshok Jaiswal: Add it to the GitHub pls",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 100,
+      "date": "29/10/2025",
+      "dateLabel": "Oct 29, 2025",
+      "messageCount": 5,
+      "mediaCount": 0,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Lalith Kumar: @\u2068Ashok Jaiswal\u2069 , added the code to github and you too can access the code. Here is the link : https://github.com/Lalith1011/I2C_SENSORS_DATA\nLalith Kumar: Do let me know if you are able to access it \u200e<This message was edited>\nAshok Jaiswal: thanks, will check\nAshok Jaiswal: i need to the prorotype to arrive so i can test it",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 104,
+      "date": "2/11/2025",
+      "dateLabel": "Nov 2, 2025",
+      "messageCount": 12,
+      "mediaCount": 3,
+      "participants": [
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000710-PHOTO-2025-11-02-18-19-38.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000711-VIDEO-2025-11-02-19-03-21.mp4",
+          "type": "video"
+        },
+        {
+          "file": "00000724-PHOTO-2025-11-02-19-20-52.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: This is to remind you again that - you will have to add a weight to the bottom of the bot (in between the wheels) . There is provision to fasten the same. \u200e<This message was edited>\nPrithu Hazarika: Lalith has pointed it earlier here.\nAshok Jaiswal: What about the camera direction?\nPrithu Hazarika: Okay noted . Thats a important point\nPrithu Hazarika: Because of the SD card sitting right under, we could not mount an L bracket - to hold the camera in place.\nAshok Jaiswal: then how do we solve it?",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 105,
+      "date": "3/11/2025",
+      "dateLabel": "Nov 3, 2025",
+      "messageCount": 4,
+      "mediaCount": 1,
+      "participants": [
+        "Lalith Kumar",
+        "~\u202fVenky",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000725-PHOTO-2025-11-03-14-20-53.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Lalith Kumar: This is for the speaker Ashok.\nLalith Kumar: You can solder a speaker of some decent size that will fit in to the sphere so that you can test the OPEN-AI QA feature.\n~\u202fVenky: \u200eThis message was deleted.",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 106,
+      "date": "4/11/2025",
+      "dateLabel": "Nov 4, 2025",
+      "messageCount": 21,
+      "mediaCount": 1,
+      "participants": [
+        "Ashok Jaiswal",
+        "Lalith Kumar",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000749-PHOTO-2025-11-04-14-42-34.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: Met the factory today\nAshok Jaiswal: They said it\u2019s very well done\nAshok Jaiswal: Good job boys\nAshok Jaiswal: Next state is production - can we have a call today pls?\nAshok Jaiswal: Can have call in 2 hours ?\nLalith Kumar: Yeah sure, works for me.",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 108,
+      "date": "6/11/2025",
+      "dateLabel": "Nov 6, 2025",
+      "messageCount": 7,
+      "mediaCount": 1,
+      "participants": [
+        "Ashok Jaiswal",
+        "Lalith Kumar",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000759-Agreement 1.pdf",
+          "type": "pdf"
+        }
+      ],
+      "summary": "Ashok Jaiswal: @\u2068Lalith Kumar\u2069 you sending the quote for work items we discussed yesterday?\nLalith Kumar: Yeah will send you shortly.\nLalith Kumar: \u200eThis message was deleted.\nPrithu Hazarika: @\u2068Ashok Jaiswal\u2069\nPrithu Hazarika: @\u2068Lalith Kumar\u2069",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 109,
+      "date": "7/11/2025",
+      "dateLabel": "Nov 7, 2025",
+      "messageCount": 13,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal",
+        "Lalith Kumar",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: btw what happened to the 2 units you guys sent to my home in delhi? did they ever get delivered?\nAshok Jaiswal: let us proceed with it but before you shoot whole video, just shoot 30 second of it and show me so I can assess you going in right direction\nAshok Jaiswal: what about other items we discussed?\nLalith Kumar: They got delivered, could you check with your family once?\nLalith Kumar: Could you mention them once, I actually forgot to make a note of them. Thanks\nAshok Jaiswal: @\u2068Prithu Hazarika\u2069 ! you remember anything?",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 114,
+      "date": "12/11/2025",
+      "dateLabel": "Nov 12, 2025",
+      "messageCount": 6,
+      "mediaCount": 0,
+      "participants": [
+        "Lalith Kumar",
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Lalith Kumar: @\u2068Ashok Jaiswal\u2069 can you pls ask someone from your home to courier us back the 2 units? If you can share the tracking details, I'll take care of the rest. Thanks.\nPrithu Hazarika: @\u2068Ashok Jaiswal\u2069  - can you please share a google drive folder - where we can upload all the video footage ?\nAshok Jaiswal: You can\u2019t shoot with new one?\nAshok Jaiswal: I sent one to the app developer\nAshok Jaiswal: Can you pls shoot a 5-10 second footage of the first shot only first just so I can understand how it would go\nAshok Jaiswal: And can give early feedback",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 115,
+      "date": "13/11/2025",
+      "dateLabel": "Nov 13, 2025",
+      "messageCount": 11,
+      "mediaCount": 1,
+      "participants": [
+        "Prithu Hazarika",
+        "Ashok Jaiswal",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000795-PHOTO-2025-11-13-15-13-16.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: We have one with us - we will try to shoot with that itself - not to worry for now.\nPrithu Hazarika: sure - we will send it to you tomorrow morning\nPrithu Hazarika: @\u2068Ashok Jaiswal\u2069 hi Ashok, please have a look at this footage. Let me know your comments.\nAshok Jaiswal: nice, you would need to figure out the ambinece noise issue though\nPrithu Hazarika: The ambient noise will be very difficult to control. Usually people put the sound separately.\nPrithu Hazarika: That\u2019s how it is in the reference video, you shared as well -",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 116,
+      "date": "14/11/2025",
+      "dateLabel": "Nov 14, 2025",
+      "messageCount": 5,
+      "mediaCount": 0,
+      "participants": [
+        "Prithu Hazarika",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [],
+      "summary": "Prithu Hazarika: \u200eThis message was deleted.\nPrithu Hazarika: \u200eThis message was deleted.\nPrithu Hazarika: \u200eThis message was deleted.\nLalith Kumar: Hi @\u2068Ashok Jaiswal\u2069 , all the videos for 'PART2 - OVERVIEW' have been added in the drive link. All the content for the other days to come will be added here itself. Below is the link, pls check and let me know. Thanks \u200e<This message was edited>",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 119,
+      "date": "17/11/2025",
+      "dateLabel": "Nov 17, 2025",
+      "messageCount": 14,
+      "mediaCount": 0,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal",
+        "~\u202fAmeya Mistry",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [],
+      "summary": "Lalith Kumar: @\u2068Ashok Jaiswal\u2069 , we uploaded the videos for the Design part too. Kindly have a look and get back to us with your comments. We are currently working on the \u2018Manufacturing and Assembly part', once that is ready, it will be uploaded too. Will let you know on this as well.\nAshok Jaiswal: Ok let me check\n~\u202fAmeya Mistry: \u200ePrithu Hazarika added ~\u202fAmeya Mistry\nPrithu Hazarika: Hi Ameya, welcome to the Rolling Robot project watsapp group -\n~\u202fAmeya Mistry: Thanks, Prithu. Hi @\u2068Ashok Jaiswal\u2069 Sharing the link below for the design sync-up.\n~\u202fAmeya Mistry: Project Sync Up",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 120,
+      "date": "18/11/2025",
+      "dateLabel": "Nov 18, 2025",
+      "messageCount": 11,
+      "mediaCount": 0,
+      "participants": [
+        "Prithu Hazarika",
+        "Ashok Jaiswal",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [],
+      "summary": "Prithu Hazarika: Hi Ashok, are you able to access the video files?\nPrithu Hazarika: We will be done with the video shoot today and later on. It will be very difficult for us to make major changes if required.\nAshok Jaiswal: i saw the video yesterday,\nAshok Jaiswal: your mechanical explaination was amazing well done\nAshok Jaiswal: there is room for improvement in the audio for other 2\nAshok Jaiswal: what about showing the process of PCB and PCBA assembly?",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 121,
+      "date": "19/11/2025",
+      "dateLabel": "Nov 19, 2025",
+      "messageCount": 8,
+      "mediaCount": 1,
+      "participants": [
+        "Ashok Jaiswal",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000831-PHOTO-2025-11-19-14-11-07.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: @\u2068Lalith Kumar\u2069 it\u2019s weird, I am having trouble playing videos from Google Drive\nAshok Jaiswal: I am crating a YouTube channel, can you pls post them there?\nAshok Jaiswal: What is your email?\nLalith Kumar: Yeah this is my email.\nLalith Kumar: Yes, I\u2019ll post them there\nLalith Kumar: Hi @\u2068Ashok Jaiswal\u2069 , you can access the files using this link.",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 122,
+      "date": "20/11/2025",
+      "dateLabel": "Nov 20, 2025",
+      "messageCount": 15,
+      "mediaCount": 0,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Lalith Kumar: @\u2068Ashok Jaiswal\u2069 , we included the concept you sent in the final_video_cut. Is that fine or do you want to send another one?\nAshok Jaiswal: thanks Lalith\nLalith Kumar: The overall video length is coming out to be 35mins\nLalith Kumar: 36mins (approx), we will break it into 2 parts and upload them. Pls let me know if this is fine for you. Either way, it works for us.\nAshok Jaiswal: pls check your email for invite\nLalith Kumar: We will upload the final video cuts to the channel link you shared. For now, pls download the files from this link and review them. These consist of individual \u2018Parts\u2019 work as we discussed before.",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 123,
+      "date": "21/11/2025",
+      "dateLabel": "Nov 21, 2025",
+      "messageCount": 30,
+      "mediaCount": 4,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal",
+        "~\u202fAmeya Mistry",
+        "Prithu Hazarika",
+        "Dhiraj Sharma"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000860-PHOTO-2025-11-21-14-47-06.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000868-PHOTO-2025-11-21-14-52-26.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000883-PHOTO-2025-11-21-18-16-44.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000884-PHOTO-2025-11-21-19-58-45.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Lalith Kumar: @\u2068Ashok Jaiswal\u2069, I need a verification to be done from your end to add additional videos to the channel. Kindly get this done. All videos including the \u2018Final_Cut' are ready. Once you are done with the verification, let me know, and I\u2019ll upload all of them at once. Thanks\nAshok Jaiswal: Ok let\u2019s verify now\n~\u202fAmeya Mistry: Hi @\u2068Ashok Jaiswal\u2069, I\u2019m feeling a bit under the weather due to the conditions here, so I won\u2019t be able to join today\u2019s evening call. Let\u2019s connect on Monday, 6\u20137 p.m., as planned to review this week's ( week 1 ) design progress as per our timeline.\nAshok Jaiswal: Ok sure, take care\nAshok Jaiswal: so what do i do?\nLalith Kumar: Try uploading a video, you will get a error message to complete verification",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 125,
+      "date": "23/11/2025",
+      "dateLabel": "Nov 23, 2025",
+      "messageCount": 2,
+      "mediaCount": 1,
+      "participants": [
+        "Ashok Jaiswal",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000888-PHOTO-2025-11-23-17-46-44.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: Is it because they are draft ? Can you publish pls\nLalith Kumar: Yeah I'll do it.",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 126,
+      "date": "24/11/2025",
+      "dateLabel": "Nov 24, 2025",
+      "messageCount": 16,
+      "mediaCount": 2,
+      "participants": [
+        "~\u202fAmeya Mistry",
+        "Ashok Jaiswal",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000896-PHOTO-2025-11-24-19-39-43.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000904-PHOTO-2025-11-24-19-44-39.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "~\u202fAmeya Mistry: Hi @\u2068Ashok Jaiswal\u2069 sharing the link for todays design sync up.\n~\u202fAmeya Mistry: 6 - 7 pm IST\nPrithu Hazarika: There is some issue with my internet connection, having difficulty in joining\nPrithu Hazarika: Don\u2019t know why the joint button is showing disabled\nAshok Jaiswal: send the new link\nPrithu Hazarika: The new link is also showing me the same issue - I am not sure why this is happening",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 127,
+      "date": "25/11/2025",
+      "dateLabel": "Nov 25, 2025",
+      "messageCount": 30,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal",
+        "Prithu Hazarika",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: Pls speak to @\u2068~Ameya Mistry\u2069 !\nAshok Jaiswal: This round of design is focused on targeting Kickstarter demographic - not optimization for cost or manufacturing\nAshok Jaiswal: We will do that as second round\nAshok Jaiswal: We will only focus on prototyping and rendering for crowdfunding - open source firmware and some mechanical and pcba\nPrithu Hazarika: Yes, as per our original scope, we have not considered optimisation for cost or mass manufacturing\nPrithu Hazarika: Yes noted \ud83d\udc4d\ud83c\udffc",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 128,
+      "date": "26/11/2025",
+      "dateLabel": "Nov 26, 2025",
+      "messageCount": 1,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: Thanks Lalith",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 129,
+      "date": "27/11/2025",
+      "dateLabel": "Nov 27, 2025",
+      "messageCount": 8,
+      "mediaCount": 0,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal",
+        "~\u202fAmeya Mistry"
+      ],
+      "mediaFiles": [],
+      "summary": "Lalith Kumar: @\u2068Ashok Jaiswal\u2069 , I uploaded all the remaining videos along with this one too. Pls check\n~\u202fAmeya Mistry: Hi @\u2068Ashok Jaiswal\u2069 ,\n~\u202fAmeya Mistry: Design Sync\nAshok Jaiswal: Also @\u2068Dhiraj Sharma\u2069 PR\nAshok Jaiswal: Sorry got late\nAshok Jaiswal: Joining now",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 133,
+      "date": "1/12/2025",
+      "dateLabel": "Dec 1, 2025",
+      "messageCount": 15,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal",
+        "Lalith Kumar",
+        "~\u202fAmeya Mistry",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: hi! videos are looking good now @\u2068Lalith Kumar\u2069 !\nAshok Jaiswal: we still missing soldering shots, 3d printing shots etc\nAshok Jaiswal: is it possible to do those so that our video also look similar to ESP-32 ball\nLalith Kumar: Not sure, for the soldering shots, we can call our hardware guy and shoot it. But, for 3d printing, might have to make a visit to the 3-d print centre. Will check with Prithu once on this and let you know.\nAshok Jaiswal: @\u2068~Ameya Mistry\u2069 ! we catching up today?\n~\u202fAmeya Mistry: @\u2068Ashok Jaiswal\u2069 stuck i some impromptu call till late night, what would be next best possible window for you to catch up ?",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 134,
+      "date": "2/12/2025",
+      "dateLabel": "Dec 2, 2025",
+      "messageCount": 6,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal",
+        "~\u202fAmeya Mistry",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: @\u2068~Ameya Mistry\u2069 ! Did we miss the catch up yesterday ?\n~\u202fAmeya Mistry: Hi @\u2068Ashok Jaiswal\u2069 lets meet today 730 IST if you are available?\n~\u202fAmeya Mistry: Design Direction Discussion\nAshok Jaiswal: @\u2068Prithu Hazarika\u2069 ! you joining\nPrithu Hazarika: I could not join today Ashok . Will discuss with ameya",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 135,
+      "date": "3/12/2025",
+      "dateLabel": "Dec 3, 2025",
+      "messageCount": 11,
+      "mediaCount": 1,
+      "participants": [
+        "Ashok Jaiswal",
+        "~\u202fAmeya Mistry",
+        "Prithu Hazarika",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000977-Spastha_DD.pdf",
+          "type": "pdf"
+        }
+      ],
+      "summary": "Ashok Jaiswal: @\u2068~Ameya Mistry\u2069 ! please send the scatches\nAshok Jaiswal: can you also shoot yourself with phone while doing some sketches?\nAshok Jaiswal: we need these footages to document the development story\nAshok Jaiswal: @\u2068~Ameya Mistry\u2069 can you send me the physical pepers to my Delhi home pls?\nAshok Jaiswal: @\u2068Prithu Hazarika\u2069 pls also send remaining prototype to my Delhi home - keep 2 with you\nAshok Jaiswal: Shubham Jaiswal",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 136,
+      "date": "4/12/2025",
+      "dateLabel": "Dec 4, 2025",
+      "messageCount": 8,
+      "mediaCount": 2,
+      "participants": [
+        "Ashok Jaiswal",
+        "~\u202fAmeya Mistry",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00000987-PHOTO-2025-12-04-13-55-12.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00000988-PHOTO-2025-12-04-13-56-29.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: @\u2068~Ameya Mistry\u2069 ! please record a video of you doing some sketching - pretending to sketch is good enough \ud83d\ude42\nAshok Jaiswal: keep the camera on top of your right shoulder looking at your scatch pad\nAshok Jaiswal: @\u2068~Ameya Mistry\u2069 ! pls send the original sketches also, thanks\n~\u202fAmeya Mistry: Yes will do\n~\u202fAmeya Mistry: Do you want me to send these first, or together with everything on monday?",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 138,
+      "date": "6/12/2025",
+      "dateLabel": "Dec 6, 2025",
+      "messageCount": 2,
+      "mediaCount": 0,
+      "participants": [
+        "~\u202fAmeya Mistry",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "~\u202fAmeya Mistry: @\u2068Ashok Jaiswal\u2069 what time would you be free tomorrow for a concept review?\nAshok Jaiswal: Earliest the better",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 139,
+      "date": "7/12/2025",
+      "dateLabel": "Dec 7, 2025",
+      "messageCount": 14,
+      "mediaCount": 1,
+      "participants": [
+        "~\u202fAmeya Mistry",
+        "Ashok Jaiswal",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001007-ConceptRef.pdf",
+          "type": "pdf"
+        }
+      ],
+      "summary": "Prithu Hazarika: @\u2068~Ameya Mistry\u2069  - please do mention the key topics, we will cover in today\u2019s call\nAshok Jaiswal: We want to go through the final design\nAshok Jaiswal: We already narrow down to final design last week\nAshok Jaiswal: Also 2 things\nPrithu Hazarika: @\u2068~Ameya Mistry\u2069 \u2026\n~\u202fAmeya Mistry: I'll take you through, few form refinements and a few ideas for the docking charging station, and fer quick render of the product.",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 141,
+      "date": "9/12/2025",
+      "dateLabel": "Dec 9, 2025",
+      "messageCount": 11,
+      "mediaCount": 2,
+      "participants": [
+        "Ashok Jaiswal",
+        "Lalith Kumar",
+        "~\u202fAmeya Mistry",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001014-PHOTO-2025-12-09-18-28-08.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001023-PHOTO-2025-12-09-22-05-15.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: Pls share the tracking code\nLalith Kumar: It\u2019s right below the QR here. V3500887822\n~\u202fAmeya Mistry: Hey, I'm sending you a package via Porter 2 Wheeler! Never knew it would be this easy - Use Porter app for Trucks & 2-wheeler goods delivery, Packers & Movers and Courier services.\n~\u202fAmeya Mistry: @\u2068Ashok Jaiswal\u2069 can we have a quick design sync-up today at 7:45 IST ? Will take you through few exploration and consideration that i and prithu discussed\n~\u202fAmeya Mistry: Design Sync-up\nPrithu Hazarika: @\u2068Ashok Jaiswal\u2069",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 142,
+      "date": "10/12/2025",
+      "dateLabel": "Dec 10, 2025",
+      "messageCount": 10,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: Pls like and subscribe the channel\nAshok Jaiswal: lets go with 03\nAshok Jaiswal: I need some hero shot on transparent background\nAshok Jaiswal: To make some shots for website\nAshok Jaiswal: Do we want any logo on it? Subtle\nPrithu Hazarika: please give us one more week for this - because we are still making improvements.",
+      "pillar": "software",
+      "tags": [
+        "software"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 146,
+      "date": "14/12/2025",
+      "dateLabel": "Dec 14, 2025",
+      "messageCount": 5,
+      "mediaCount": 10,
+      "participants": [
+        "Ashok Jaiswal",
+        "~\u202fAmeya Mistry",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001037-PHOTO-2025-12-14-21-17-52.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001038-PHOTO-2025-12-14-21-17-54.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001039-PHOTO-2025-12-14-21-18-03.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001040-PHOTO-2025-12-14-21-18-04.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001042-PHOTO-2025-12-14-21-20-32.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001043-PHOTO-2025-12-14-21-20-33.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001044-PHOTO-2025-12-14-21-20-34.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001045-PHOTO-2025-12-14-21-20-46.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001046-PHOTO-2025-12-14-21-20-47.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001047-PHOTO-2025-12-14-21-20-48.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: @\u2068~Ameya Mistry\u2069 ! any update on render?\n~\u202fAmeya Mistry: Hello, I'm working on the 3d model for the bot and the treat dispenser. Will share the renders asap.\nPrithu Hazarika: @\u2068~Ameya Mistry\u2069  what are these images about? \u200e<This message was edited>\n~\u202fAmeya Mistry: CAD in progress, over all shapes is done, just tweaking the surfaces so the come out nicely in the renders.",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 148,
+      "date": "16/12/2025",
+      "dateLabel": "Dec 16, 2025",
+      "messageCount": 3,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: Instagram: https://instagram.com/pawme.ai\nAshok Jaiswal: Boys, Can you guys pls subscbe and follow the channels\nPrithu Hazarika: Yeah, sure. I have already subscribe to YouTube and Instagram.",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 149,
+      "date": "17/12/2025",
+      "dateLabel": "Dec 17, 2025",
+      "messageCount": 2,
+      "mediaCount": 10,
+      "participants": [
+        "~\u202fAmeya Mistry"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001055-PHOTO-2025-12-17-01-27-09.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001056-PHOTO-2025-12-17-01-27-10.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001059-PHOTO-2025-12-17-01-27-51.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001060-PHOTO-2025-12-17-01-27-51.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001061-PHOTO-2025-12-17-01-28-10.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001062-PHOTO-2025-12-17-01-28-11.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001063-PHOTO-2025-12-17-01-31-59.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001064-PHOTO-2025-12-17-01-32-00.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001065-PHOTO-2025-12-17-01-32-35.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001066-PHOTO-2025-12-17-01-32-36.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "~\u202fAmeya Mistry: \u200eThis message was deleted.\n~\u202fAmeya Mistry: \u200eThis message was deleted.",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 150,
+      "date": "18/12/2025",
+      "dateLabel": "Dec 18, 2025",
+      "messageCount": 4,
+      "mediaCount": 7,
+      "participants": [
+        "~\u202fAmeya Mistry"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001069-PHOTO-2025-12-18-03-03-36.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001070-PHOTO-2025-12-18-05-00-34.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001071-PHOTO-2025-12-18-05-00-35.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001072-PHOTO-2025-12-18-05-00-51.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001073-PHOTO-2025-12-18-05-00-52.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001074-PHOTO-2025-12-18-05-01-13.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001075-PHOTO-2025-12-18-05-01-14.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "~\u202fAmeya Mistry: \u200eThis message was deleted.\n~\u202fAmeya Mistry: \u200eThis message was deleted.\n~\u202fAmeya Mistry: \u200eThis message was deleted.\n~\u202fAmeya Mistry: \u200eThis message was deleted.",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 151,
+      "date": "19/12/2025",
+      "dateLabel": "Dec 19, 2025",
+      "messageCount": 11,
+      "mediaCount": 10,
+      "participants": [
+        "~\u202fAmeya Mistry",
+        "Prithu Hazarika",
+        "~\u202fHitesh"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001080-PHOTO-2025-12-19-06-22-20.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001081-PHOTO-2025-12-19-06-22-21.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001082-PHOTO-2025-12-19-06-22-43.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001083-PHOTO-2025-12-19-06-22-45.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001084-PHOTO-2025-12-19-06-23-30.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001085-PHOTO-2025-12-19-06-23-31.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001088-PHOTO-2025-12-19-06-26-13.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001089-PHOTO-2025-12-19-06-26-13.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001090-PHOTO-2025-12-19-12-45-00.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001091-PHOTO-2025-12-19-12-46-13.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "~\u202fAmeya Mistry: \u200eThis message was deleted.\n~\u202fAmeya Mistry: \u200eThis message was deleted.\nPrithu Hazarika: Not very fond of having the head in different colour.\nPrithu Hazarika: @\u2068Ashok Jaiswal\u2069 please share your thoughts\n~\u202fHitesh: Full body would be better here\n~\u202fHitesh: Saying from the device perspective, the display can omit any type of light so remaining body should be just one/mono coloured, keeping the aesthetics clean. Wdyt?",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 153,
+      "date": "21/12/2025",
+      "dateLabel": "Dec 21, 2025",
+      "messageCount": 4,
+      "mediaCount": 2,
+      "participants": [
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001105-PHOTO-2025-12-21-21-14-56.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001106-PHOTO-2025-12-21-21-14-58.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: Nice . \ud83d\udc4d\ud83c\udffc\nPrithu Hazarika: @\u2068~Ameya Mistry\u2069",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 155,
+      "date": "23/12/2025",
+      "dateLabel": "Dec 23, 2025",
+      "messageCount": 13,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: I am back online\nAshok Jaiswal: So @\u2068Prithu Hazarika\u2069 ! Which design you like so far?\nAshok Jaiswal: For dispensing, need to study the dispensing mechanism in next stage but for now which design you finalizing ?\nAshok Jaiswal: What is the red strap for ?\nAshok Jaiswal: I like top right most - simple\nPrithu Hazarika: I like this one, the best, so far.",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 156,
+      "date": "24/12/2025",
+      "dateLabel": "Dec 24, 2025",
+      "messageCount": 18,
+      "mediaCount": 6,
+      "participants": [
+        "~\u202fAmeya Mistry",
+        "Ashok Jaiswal",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001130-PHOTO-2025-12-24-22-53-28.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001131-PHOTO-2025-12-24-22-53-51.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001132-PHOTO-2025-12-24-22-54-05.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001134-PHOTO-2025-12-24-22-54-20.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001140-PHOTO-2025-12-24-23-00-35.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001141-PHOTO-2025-12-24-23-01-38.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "~\u202fAmeya Mistry: It adds a bit of playfull ness to character like a small pony tail. Can be used for branding as well as attachements like how ebo has it. It also acts ab element thats stays throughout your products like a branding tag.\nAshok Jaiswal: Good idea \ud83d\udc4d\nAshok Jaiswal: Can we pls speed up this?\nAshok Jaiswal: I think now @\u2068Prithu Hazarika\u2069 needs to get on with mechanical ?\nAshok Jaiswal: Yes sure, let me know when pls\n~\u202fAmeya Mistry: \u200eThis message was deleted.",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 157,
+      "date": "25/12/2025",
+      "dateLabel": "Dec 25, 2025",
+      "messageCount": 8,
+      "mediaCount": 10,
+      "participants": [
+        "Prithu Hazarika",
+        "Ashok Jaiswal",
+        "Dhiraj Sharma"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001149-PHOTO-2025-12-25-10-17-35.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001150-PHOTO-2025-12-25-10-17-37.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001152-PHOTO-2025-12-25-11-24-58.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001154-PHOTO-2025-12-25-13-24-35.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001155-PHOTO-2025-12-25-17-06-59.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001156-PHOTO-2025-12-25-17-06-59.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001157-PHOTO-2025-12-25-17-06-59.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001158-PHOTO-2025-12-25-17-06-59.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001160-PHOTO-2025-12-25-18-43-19.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001164-PHOTO-2025-12-25-20-07-26.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: The only issue i see with the current design is that  - the features are angular, unlike the robot , which has rounded features.\nPrithu Hazarika: @\u2068Ashok Jaiswal\u2069\nDhiraj Sharma: I am having some problem connecting the prototype to a device through wifi. The parts are falling apart. Can someone guide me\nAshok Jaiswal: Pls use this logo\nPrithu Hazarika: @\u2068~Ameya Mistry\u2069 and @\u2068Ashok Jaiswal\u2069",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 158,
+      "date": "26/12/2025",
+      "dateLabel": "Dec 26, 2025",
+      "messageCount": 5,
+      "mediaCount": 8,
+      "participants": [
+        "~\u202fAmeya Mistry",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001165-PHOTO-2025-12-26-08-30-27.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001166-PHOTO-2025-12-26-08-31-06.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001167-PHOTO-2025-12-26-08-32-50.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001169-PHOTO-2025-12-26-08-51-36.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001174-PHOTO-2025-12-26-23-40-01.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001175-PHOTO-2025-12-26-23-40-02.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001176-PHOTO-2025-12-26-23-59-55.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001177-PHOTO-2025-12-26-23-59-56.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "~\u202fAmeya Mistry: The last one might end up looking like an air fryer or an air purifier if it's the same color throughout...\nPrithu Hazarika: The colour wheels make it look very much like a toy  - and less premium\nPrithu Hazarika: I personally like the first two options here\n~\u202fAmeya Mistry: \u200eThis message was deleted.",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 159,
+      "date": "27/12/2025",
+      "dateLabel": "Dec 27, 2025",
+      "messageCount": 2,
+      "mediaCount": 2,
+      "participants": [
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001179-PHOTO-2025-12-27-00-12-32.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001180-PHOTO-2025-12-27-00-12-33.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: @\u2068~Ameya Mistry\u2069\nAshok Jaiswal: very cool, looks like darker looks better",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 161,
+      "date": "29/12/2025",
+      "dateLabel": "Dec 29, 2025",
+      "messageCount": 10,
+      "mediaCount": 4,
+      "participants": [
+        "Prithu Hazarika",
+        "Ashok Jaiswal",
+        "~\u202fAmeya Mistry",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001182-PHOTO-2025-12-29-19-34-09.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001188-PHOTO-2025-12-29-23-11-02.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001189-PHOTO-2025-12-29-23-11-23.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001191-PHOTO-2025-12-29-23-40-35.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: \u200eThis message was deleted.\nAshok Jaiswal: @\u2068Lalith Kumar\u2069 can you pls share instructions on how to prepare new ad card for the robot?\nAshok Jaiswal: I got the robots from Delhi but no SD cards\nAshok Jaiswal: @\u2068Dhiraj Sharma\u2069 also have problem with SD card, can\u2019t get the robot to boot\n~\u202fAmeya Mistry: @\u2068Ashok Jaiswal\u2069 let me know which tag location looks perfect, i would personally recomthis one as its at a perfect location, both utilitarian and visible but not on the face, also the branding can be embossed on it...\nLalith Kumar: I\u2019ll share the link to the video. It is there in the video-shoot that we did. Will send you.",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 162,
+      "date": "30/12/2025",
+      "dateLabel": "Dec 30, 2025",
+      "messageCount": 25,
+      "mediaCount": 10,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal",
+        "Dhiraj Sharma",
+        "~\u202fAmeya Mistry",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001206-PHOTO-2025-12-30-13-10-38.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001209-PHOTO-2025-12-30-17-06-40.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001213-PHOTO-2025-12-30-18-16-00.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001215-PHOTO-2025-12-30-18-34-00.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001216-PHOTO-2025-12-30-18-34-20.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001217-PHOTO-2025-12-30-18-34-40.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001218-PHOTO-2025-12-30-18-35-02.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001219-PHOTO-2025-12-30-18-38-16.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001226-PHOTO-2025-12-30-20-38-01.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001227-PHOTO-2025-12-30-20-38-04.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Lalith Kumar: @\u2068Ashok Jaiswal\u2069 @\u2068Dhiraj Sharma\u2069 check 22:01 in the above video. It has instructions to put the necessary files into the SD card.\nAshok Jaiswal: I like the 2nd one actually - that leave space for branding on the head or on the back and also we need a reset button on the device - this could be at the bottom of the product (not always visible)\nAshok Jaiswal: @\u2068Dhiraj Sharma\u2069 pls try\nAshok Jaiswal: Can you try the rim itself pls?\nAshok Jaiswal: What about the logo? Branding\nDhiraj Sharma: Okay got it",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 163,
+      "date": "31/12/2025",
+      "dateLabel": "Dec 31, 2025",
+      "messageCount": 3,
+      "mediaCount": 3,
+      "participants": [
+        "~\u202fAmeya Mistry",
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001233-VIDEO-2025-12-31-14-10-23.mp4",
+          "type": "video"
+        },
+        {
+          "file": "00001234-CMF_Specification.pdf",
+          "type": "pdf"
+        },
+        {
+          "file": "00001235-PHOTO-2025-12-31-14-04-17.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: Oh wow so cool",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 168,
+      "date": "5/1/2026",
+      "dateLabel": "Jan 5, 2026",
+      "messageCount": 4,
+      "mediaCount": 0,
+      "participants": [
+        "~\u202fAmeya Mistry"
+      ],
+      "mediaFiles": [],
+      "summary": "~\u202fAmeya Mistry: Hi @\u2068Ashok Jaiswal\u2069, have uploaded everything we have done so far on the design fromt be it renders or explorations, please find the CAD for botht the products, all the itration decks, renders with different expressions and head movement, and few animations, on this google drive\n~\u202fAmeya Mistry: Do let me know if you need any more specific renders or animations. Would you help you out with that.\n~\u202fAmeya Mistry: I have also attached a local copy of the figma file. It includes all the research and references with all the itrations done so far.",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 169,
+      "date": "6/1/2026",
+      "dateLabel": "Jan 6, 2026",
+      "messageCount": 3,
+      "mediaCount": 0,
+      "participants": [
+        "Prithu Hazarika",
+        "~\u202fAmeya Mistry"
+      ],
+      "mediaFiles": [],
+      "summary": "Prithu Hazarika: \u200ePrithu Hazarika changed this group's icon",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 170,
+      "date": "7/1/2026",
+      "dateLabel": "Jan 7, 2026",
+      "messageCount": 1,
+      "mediaCount": 1,
+      "participants": [
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001245-PawMe-Logo-preview.pdf",
+          "type": "pdf"
+        }
+      ],
+      "summary": "Ashok Jaiswal: Any preference on the logo?",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 171,
+      "date": "8/1/2026",
+      "dateLabel": "Jan 8, 2026",
+      "messageCount": 9,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: @\u2068Dhiraj Sharma\u2069 @\u2068Lalith Kumar\u2069 we have call today?\nAshok Jaiswal: pls not i am not available 5-7pm\nLalith Kumar: Is it regarding the device? I had a call with him in the morning today.\nAshok Jaiswal: Oh ok, @\u2068Dhiraj Sharma\u2069 is it resolved ?\nLalith Kumar: The SD card not detected issue is resolved. I told him to charge the device and then test it.\nAshok Jaiswal: oh so its related to low battery?",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 172,
+      "date": "9/1/2026",
+      "dateLabel": "Jan 9, 2026",
+      "messageCount": 13,
+      "mediaCount": 6,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal",
+        "Prithu Hazarika",
+        "Dhiraj Sharma"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001264-PHOTO-2026-01-09-20-55-04.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001265-PHOTO-2026-01-09-20-55-04.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001266-PHOTO-2026-01-09-20-55-05.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001267-PHOTO-2026-01-09-20-55-05.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001268-PHOTO-2026-01-09-20-55-06.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001271-PHOTO-2026-01-09-21-50-48.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: invite aeropriest handle to this repo pls\nLalith Kumar: Invite is sent to axarrobotics\nLalith Kumar: @\u2068Dhiraj Sharma\u2069 20:42\nPrithu Hazarika: @\u2068Ashok Jaiswal\u2069\nAshok Jaiswal: Is it possible to still be able to wrap the whole robot inside a transparent ball?\nPrithu Hazarika: Right now, it would be too late to do that.",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 174,
+      "date": "11/1/2026",
+      "dateLabel": "Jan 11, 2026",
+      "messageCount": 5,
+      "mediaCount": 0,
+      "participants": [
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Prithu Hazarika: @\u2068Ashok Jaiswal\u2069\nAshok Jaiswal: Let me check\nAshok Jaiswal: i see the video now, thanks Prithu, good progress\nAshok Jaiswal: i think we should use 1 battery, they are expensive",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 175,
+      "date": "12/1/2026",
+      "dateLabel": "Jan 12, 2026",
+      "messageCount": 1,
+      "mediaCount": 0,
+      "participants": [
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [],
+      "summary": "",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 181,
+      "date": "18/1/2026",
+      "dateLabel": "Jan 18, 2026",
+      "messageCount": 3,
+      "mediaCount": 1,
+      "participants": [
+        "Sumit Dandekar",
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001286-PHOTO-2026-01-18-02-18-17.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: @\u2068Sumit Dandekar\u2069\nAshok Jaiswal: Thanks prithu",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 182,
+      "date": "19/1/2026",
+      "dateLabel": "Jan 19, 2026",
+      "messageCount": 9,
+      "mediaCount": 0,
+      "participants": [
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Prithu Hazarika: @\u2068Ashok Jaiswal\u2069\nAshok Jaiswal: I gave 1 to dhiraj\nAshok Jaiswal: And 1 is at my home\nAshok Jaiswal: But 2 is good enough\nAshok Jaiswal: I have 4 here in Hong Kong\nAshok Jaiswal: Anyone going to India from here, I can send",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 184,
+      "date": "21/1/2026",
+      "dateLabel": "Jan 21, 2026",
+      "messageCount": 7,
+      "mediaCount": 12,
+      "participants": [
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001297-PHOTO-2026-01-21-14-32-09.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001298-PHOTO-2026-01-21-14-32-10.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001299-PHOTO-2026-01-21-14-32-10.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001300-PHOTO-2026-01-21-14-32-10.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001301-PHOTO-2026-01-21-14-32-11.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001302-PHOTO-2026-01-21-14-32-11.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001303-PHOTO-2026-01-21-14-32-11.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001304-PHOTO-2026-01-21-14-32-12.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001305-PHOTO-2026-01-21-14-32-12.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001306-PHOTO-2026-01-21-14-32-12.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: 3D printed dummy model - for reference.\nAshok Jaiswal: may be we can sand off some those lines with a fine sand paper and would look super plished\nPrithu Hazarika: Yes,. We are doing that as well.\nAshok Jaiswal: looks pretty nice\nAshok Jaiswal: can you hold it in your hand and take photo so we can assess the size better\nPrithu Hazarika: Okay, sure. Will send it soon.",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 186,
+      "date": "23/1/2026",
+      "dateLabel": "Jan 23, 2026",
+      "messageCount": 8,
+      "mediaCount": 1,
+      "participants": [
+        "Ashok Jaiswal",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001319-PHOTO-2026-01-23-20-12-50.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: Prithu - pls send 3D files, I will get them printed in Shenzhen and build prototypes with existing robots pcba\nAshok Jaiswal: Chinese new year in 2 weeks, everything will close down for 3 weeks after that and we will be stuck\nPrithu Hazarika: \u200eThis message was deleted.\nAshok Jaiswal: I need mockups in 2 weeks\nAshok Jaiswal: So pls send 3D\nAshok Jaiswal: We can\u2019t shoot phots videos after 6 weeks",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 187,
+      "date": "24/1/2026",
+      "dateLabel": "Jan 24, 2026",
+      "messageCount": 3,
+      "mediaCount": 0,
+      "participants": [
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Prithu Hazarika: @\u2068Sumit Dandekar\u2069\nAshok Jaiswal: very good @\u2068Prithu Hazarika\u2069",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 188,
+      "date": "25/1/2026",
+      "dateLabel": "Jan 25, 2026",
+      "messageCount": 7,
+      "mediaCount": 4,
+      "participants": [
+        "Prithu Hazarika",
+        "Sumit Dandekar"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001328-Main PCB.DXF",
+          "type": "image"
+        },
+        {
+          "file": "00001329-Main PCB.pdf",
+          "type": "pdf"
+        },
+        {
+          "file": "00001330-Base PCB_TOP.DXF",
+          "type": "image"
+        },
+        {
+          "file": "00001331-Base PCB_TOP.pdf",
+          "type": "pdf"
+        }
+      ],
+      "summary": "Prithu Hazarika: @\u2068Sumit Dandekar\u2069\nSumit Dandekar: Will check them by importing\nSumit Dandekar: Where are we placing the battery? Head or Body?\nPrithu Hazarika: In the body\nPrithu Hazarika: Below the body, Pcb",
+      "pillar": "manufacturing",
+      "tags": [
+        "manufacturing"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 190,
+      "date": "27/1/2026",
+      "dateLabel": "Jan 27, 2026",
+      "messageCount": 17,
+      "mediaCount": 2,
+      "participants": [
+        "Prithu Hazarika",
+        "Ashok Jaiswal",
+        "\u202a+91\u00a088991\u00a044944\u202c",
+        "~\u202fAjay"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001347-Solidworks-20260124T124309Z-3-001.zip",
+          "type": "image"
+        },
+        {
+          "file": "00001352-Pawme_Assemlby.STEP",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: @\u2068Ashok Jaiswal\u2069\nPrithu Hazarika: As you had requested, I will be forwarding to you the Mechanical Design files. But kindly keep note that they have not yet been validated and assembly tested at our end.\nAshok Jaiswal: i want to make a mockup for photos\nPrithu Hazarika: Yes, in that case, you will be able to use the files to make a mick up without the internal parts.\nAshok Jaiswal: Don\u2019t worry prithu, send me pls\nAshok Jaiswal: 2 more days will go in review and quote for them",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 191,
+      "date": "28/1/2026",
+      "dateLabel": "Jan 28, 2026",
+      "messageCount": 3,
+      "mediaCount": 5,
+      "participants": [
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001359-PHOTO-2026-01-28-00-30-09.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001360-PHOTO-2026-01-28-00-30-10.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001361-PHOTO-2026-01-28-00-30-10.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001364-PHOTO-2026-01-28-00-33-01.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001365-PHOTO-2026-01-28-00-33-01.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: @\u2068Ashok Jaiswal\u2069\nPrithu Hazarika: @\u2068\u202a+91\u00a088991\u00a044944\u202c\u2069 @\u2068Sumit Dandekar\u2069",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 192,
+      "date": "29/1/2026",
+      "dateLabel": "Jan 29, 2026",
+      "messageCount": 24,
+      "mediaCount": 11,
+      "participants": [
+        "Sumit Dandekar",
+        "~\u202fAjay",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001368-PHOTO-2026-01-29-10-54-49.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001369-PHOTO-2026-01-29-10-54-50.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001370-PHOTO-2026-01-29-10-54-50.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001371-PHOTO-2026-01-29-10-54-50.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001372-PHOTO-2026-01-29-10-54-51.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001374-Top+Board.stp",
+          "type": "image"
+        },
+        {
+          "file": "00001383-PHOTO-2026-01-29-16-38-24.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001384-PHOTO-2026-01-29-16-38-24.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001385-PHOTO-2026-01-29-16-38-25.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001386-PHOTO-2026-01-29-16-38-25.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Sumit Dandekar: Progress on Top Head PCB - Completed\nSumit Dandekar: @\u2068~Ajay\u2069 please import it in your design and review\n~\u202fAjay: Will check, btw Teamperature sensor seems little up, did you mached the dxf?\n~\u202fAjay: And also, please place the laser sensor, need to check with the cutout in our design. \u200e<This message was edited>\nPrithu Hazarika: Regarding the Laser sensor,\n~\u202fAjay: Here are few observations @Electronics Team & @\u2068Prithu Hazarika\u2069",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 193,
+      "date": "30/1/2026",
+      "dateLabel": "Jan 30, 2026",
+      "messageCount": 3,
+      "mediaCount": 2,
+      "participants": [
+        "~\u202fAjay",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001405-Top+Board^Diffuser_PCB_Subassembly.DXF",
+          "type": "image"
+        },
+        {
+          "file": "00001409-Pawme_Assemlby.STEP",
+          "type": "image"
+        }
+      ],
+      "summary": "~\u202fAjay: @\u2068Sumit Dandekar\u2069 @\u2068Prithu Hazarika\u2069 Please check this updated dxf and CAD.\n~\u202fAjay: \u200eThis message was deleted.",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 194,
+      "date": "31/1/2026",
+      "dateLabel": "Jan 31, 2026",
+      "messageCount": 2,
+      "mediaCount": 1,
+      "participants": [
+        "~\u202fAjay"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001411-Pawme_Assemlby.STEP",
+          "type": "image"
+        }
+      ],
+      "summary": "~\u202fAjay: Please ignore this file, it had some overlapped surfaces while saving to step format.\n~\u202fAjay: This is the correct one.",
+      "pillar": "software",
+      "tags": [
+        "software"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 195,
+      "date": "1/2/2026",
+      "dateLabel": "Feb 1, 2026",
+      "messageCount": 20,
+      "mediaCount": 6,
+      "participants": [
+        "Prithu Hazarika",
+        "Sumit Dandekar",
+        "Ashok Jaiswal",
+        "~\u202fAjay"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001424-PHOTO-2026-02-01-16-39-53.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001425-PHOTO-2026-02-01-16-39-54.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001426-PHOTO-2026-02-01-16-39-54.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001427-PHOTO-2026-02-01-16-39-55.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001429-PHOTO-2026-02-01-17-01-26.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001431-PHOTO-2026-02-01-17-02-17.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: Flat LA, 12/F, Tower 1, The Capitol, 1 LOHAS PARK ROAD, SAI KUNG DISTRICT, New Territories, Hong Kong\nPrithu Hazarika: @\u2068Sumit Dandekar\u2069\nSumit Dandekar: is this the latest dxf?\nPrithu Hazarika: Please do review and let us know if it has all the markings as per your request\nPrithu Hazarika: @\u2068Ashok Jaiswal\u2069\nAshok Jaiswal: Can you pls take video of how it\u2019s done ?",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 196,
+      "date": "2/2/2026",
+      "dateLabel": "Feb 2, 2026",
+      "messageCount": 9,
+      "mediaCount": 7,
+      "participants": [
+        "Ashok Jaiswal",
+        "~\u202fAjay",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001445-PHOTO-2026-02-02-13-06-39.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001446-PHOTO-2026-02-02-13-06-39.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001447-PHOTO-2026-02-02-13-09-29.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001448-PHOTO-2026-02-02-13-09-29.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001449-PHOTO-2026-02-02-13-09-30.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001450-PHOTO-2026-02-02-13-13-10.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001453-PHOTO-2026-02-02-18-01-12.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: @\u2068Prithu Hazarika\u2069 @\u2068~Ajay\u2069 ! Seems like we need heat sink on the camera module\nAshok Jaiswal: It gets hot\n~\u202fAjay: Hie @\u2068Ashok Jaiswal\u2069 , great input. Need one more input, do we have value of the temperature. Generally Upto 70 degree it is safe, and my understanding is our design is not fully enclosed inside trapped heat can easily move out, making the camera sensors less prone to heat. \u200e<This message was edited>\nAshok Jaiswal: 70 is enough\n~\u202fAjay: There is interference with the Head link..\n~\u202fAjay: Mainboard seems okay..",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 197,
+      "date": "3/2/2026",
+      "dateLabel": "Feb 3, 2026",
+      "messageCount": 1,
+      "mediaCount": 1,
+      "participants": [
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001458-VIDEO-2026-02-03-18-51-55.mp4",
+          "type": "video"
+        }
+      ],
+      "summary": "Prithu Hazarika: @\u2068Sumit Dandekar\u2069",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 198,
+      "date": "4/2/2026",
+      "dateLabel": "Feb 4, 2026",
+      "messageCount": 3,
+      "mediaCount": 2,
+      "participants": [
+        "Prithu Hazarika",
+        "Sumit Dandekar",
+        "~\u202fAjay"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001461-Top_Board_CUT.step",
+          "type": "image"
+        },
+        {
+          "file": "00001464-Pawme_Assemlby.STEP",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: \u200eThis message was deleted.\nSumit Dandekar: @\u2068~Ajay\u2069 please check and confirm\n~\u202fAjay: @\u2068Sumit Dandekar\u2069 All seems good, btw I noticed you have moved the temperature sensor down, so I will consider it as final and will not change the upcoming proto design..",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 201,
+      "date": "7/2/2026",
+      "dateLabel": "Feb 7, 2026",
+      "messageCount": 1,
+      "mediaCount": 8,
+      "participants": [
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001465-PHOTO-2026-02-07-18-43-18.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001466-PHOTO-2026-02-07-18-45-22.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001467-PHOTO-2026-02-07-18-46-39.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001468-PHOTO-2026-02-07-18-48-03.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001469-PHOTO-2026-02-07-18-48-26.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001470-PHOTO-2026-02-07-18-49-09.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001471-PHOTO-2026-02-07-18-52-21.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001472-PHOTO-2026-02-07-18-52-21.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: perfect thanks !",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 203,
+      "date": "9/2/2026",
+      "dateLabel": "Feb 9, 2026",
+      "messageCount": 3,
+      "mediaCount": 12,
+      "participants": [
+        "~\u202fAjay",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001475-VIDEO-2026-02-09-15-22-22.mp4",
+          "type": "video"
+        },
+        {
+          "file": "00001479-PHOTO-2026-02-09-15-25-40.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001480-PHOTO-2026-02-09-15-25-40.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001481-PHOTO-2026-02-09-15-25-41.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001482-PHOTO-2026-02-09-15-25-41.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001483-PHOTO-2026-02-09-15-25-41.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001484-PHOTO-2026-02-09-15-25-42.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001485-PHOTO-2026-02-09-15-25-42.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001486-PHOTO-2026-02-09-15-25-43.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001487-PHOTO-2026-02-09-15-25-43.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "~\u202fAjay: Head is visually miss alligned due to broken ribs which will guide it.\n~\u202fAjay: This is 1st iteration, prototype..",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 205,
+      "date": "11/2/2026",
+      "dateLabel": "Feb 11, 2026",
+      "messageCount": 2,
+      "mediaCount": 0,
+      "participants": [
+        "Prithu Hazarika",
+        "~\u202fAjay"
+      ],
+      "mediaFiles": [],
+      "summary": "",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 206,
+      "date": "12/2/2026",
+      "dateLabel": "Feb 12, 2026",
+      "messageCount": 4,
+      "mediaCount": 3,
+      "participants": [
+        "Ashok Jaiswal",
+        "~\u202fAjay"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001493-Pawme_Assembly_ExplodedView.pdf",
+          "type": "pdf"
+        },
+        {
+          "file": "00001494-PHOTO-2026-02-12-01-47-32.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001496-PHOTO-2026-02-12-13-04-05.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "~\u202fAjay: Head tilt issue is resolved, now it alligned perfectly.\n~\u202fAjay: Design Change : Given continuous rib so that is dont break, and reduced the clearance.. \u200e<This message was edited>\n~\u202fAjay: This is 3D pdf, you can rotate and see.. need adobe reader with 3D compatibility viewer.",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 209,
+      "date": "15/2/2026",
+      "dateLabel": "Feb 15, 2026",
+      "messageCount": 2,
+      "mediaCount": 0,
+      "participants": [
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Prithu Hazarika: @\u2068~Ameya Mistry\u2069\nAshok Jaiswal: Thanks @\u2068Prithu Hazarika\u2069",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 211,
+      "date": "17/2/2026",
+      "dateLabel": "Feb 17, 2026",
+      "messageCount": 7,
+      "mediaCount": 10,
+      "participants": [
+        "Prithu Hazarika",
+        "~\u202fAmeya Mistry",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001505-PHOTO-2026-02-17-01-27-42.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001506-PHOTO-2026-02-17-01-27-43.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001509-PHOTO-2026-02-17-02-36-58.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001510-PHOTO-2026-02-17-02-36-59.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001511-PHOTO-2026-02-17-02-36-59.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001512-PHOTO-2026-02-17-02-36-59.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001513-PHOTO-2026-02-17-02-37-00.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001514-PHOTO-2026-02-17-02-37-00.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001515-PHOTO-2026-02-17-02-37-00.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001516-PHOTO-2026-02-17-02-37-01.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "~\u202fAmeya Mistry: Most major global design awards \u2014 such as the Red Dot, iF, and Good Design Awards  typically open submissions in the first half of the year. Since our project is still in the concept stage and not yet mass manufactured, we can consider submitting it under the appropriate concept categories.\n~\u202fAmeya Mistry: Another option is to submit our concept for publication on leading design platforms such as Yanko Design or LeManoosh, which regularly feature and appreciate strong, innovative work. The process is relatively simple  we can email the concept directly to the editor-in-chief, and if they find it compelling, they may choose to publish it.\nPrithu Hazarika: Pcb assembly in progress\nPrithu Hazarika: Thanks a lot for sharing this Ameya.\nAshok Jaiswal: @\u2068~Ameya Mistry\u2069 pls prepar",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 213,
+      "date": "19/2/2026",
+      "dateLabel": "Feb 19, 2026",
+      "messageCount": 2,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal",
+        "~\u202fAjay"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: is this password protected @\u2068~Ajay\u2069 ? can you open it in an online PDF viewer with 3D pls\n~\u202fAjay: Not, password protected..",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 214,
+      "date": "20/2/2026",
+      "dateLabel": "Feb 20, 2026",
+      "messageCount": 18,
+      "mediaCount": 1,
+      "participants": [
+        "~\u202fAjay",
+        "~\u202fAmeya Mistry",
+        "Prithu Hazarika",
+        "Ashok Jaiswal",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001536-PHOTO-2026-02-20-15-31-05.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "~\u202fAjay: Facing any challenges?\n~\u202fAmeya Mistry: I hav started creating a storyboard that can show the entire user journey and use cases of the product in its context and the problem   its trying to solve.\n~\u202fAmeya Mistry: We can apply for red dot as an immediate submission under the concept category\n~\u202fAmeya Mistry: I will also create some more visual using the final prototype cad model\n~\u202fAmeya Mistry: And once proto is done it would be nice to have some pictures of behind the scenes as well part of the submission\nPrithu Hazarika: Sure this will be done \ud83d\udc4d\ud83c\udffc",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 215,
+      "date": "21/2/2026",
+      "dateLabel": "Feb 21, 2026",
+      "messageCount": 2,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: please all of you do it, thank you",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 216,
+      "date": "22/2/2026",
+      "dateLabel": "Feb 22, 2026",
+      "messageCount": 9,
+      "mediaCount": 3,
+      "participants": [
+        "Ashok Jaiswal",
+        "~\u202fAjay",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001547-PHOTO-2026-02-22-15-30-19.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001554-PHOTO-2026-02-22-18-32-02.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001555-PHOTO-2026-02-22-18-32-02.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: any update @\u2068~Ajay\u2069\n~\u202fAjay: Will share in couple of hours..\n~\u202fAjay: We have started 3D printing for the 5 sets..\nAshok Jaiswal: Is there any set ready to send it my friend in Hyderabad leaving for Hong Kong tonight\nAshok Jaiswal: Thanks, No problem\nAshok Jaiswal: But then how do we arrange logistics of shipment ?",
+      "pillar": "manufacturing",
+      "tags": [
+        "manufacturing"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 217,
+      "date": "23/2/2026",
+      "dateLabel": "Feb 23, 2026",
+      "messageCount": 2,
+      "mediaCount": 2,
+      "participants": [
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001557-PHOTO-2026-02-23-21-21-15.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001558-PHOTO-2026-02-23-21-21-16.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: The stickers for the face of the robot are ready .\nPrithu Hazarika: @\u2068~Ameya Mistry\u2069 - Do you have any update to share?",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 218,
+      "date": "24/2/2026",
+      "dateLabel": "Feb 24, 2026",
+      "messageCount": 2,
+      "mediaCount": 2,
+      "participants": [
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001561-PHOTO-2026-02-24-18-22-48.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001562-PHOTO-2026-02-24-18-22-48.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: The display finally worked yesterday \ud83d\udc4d\ud83c\udffc\nAshok Jaiswal: Nice, well done",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 219,
+      "date": "25/2/2026",
+      "dateLabel": "Feb 25, 2026",
+      "messageCount": 7,
+      "mediaCount": 5,
+      "participants": [
+        "~\u202fAjay",
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001565-VIDEO-2026-02-25-01-56-29.mp4",
+          "type": "video"
+        },
+        {
+          "file": "00001566-VIDEO-2026-02-25-01-56-29.mp4",
+          "type": "video"
+        },
+        {
+          "file": "00001567-VIDEO-2026-02-25-01-56-29.mp4",
+          "type": "video"
+        },
+        {
+          "file": "00001568-PHOTO-2026-02-25-01-56-30.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001574-PHOTO-2026-02-25-18-09-30.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "~\u202fAjay: We were successfully able to assemble all the Electronics and Mechanical parts..\nPrithu Hazarika: Lovely, thanks for sharing the video.\nPrithu Hazarika: @\u2068Ashok Jaiswal\u2069\nAshok Jaiswal: Awesome job @\u2068Prithu Hazarika\u2069 and everyone\nAshok Jaiswal: And good job in keeping everything documented - this is very helpful\nAshok Jaiswal: only these? what about",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 220,
+      "date": "26/2/2026",
+      "dateLabel": "Feb 26, 2026",
+      "messageCount": 9,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal",
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: They were already supposed to be in old firmware already\nLalith Kumar: Temperature, Distance sensor logs are implemented in seperate firmware, will have to integrate them. Coming to On/Off laser pointer, I mentioned in the message that you can control it via UI (hope that\u2019s fine). Can you explain Mic / Speaker test routine? And by Charging, do you mean the hardware circuit to charge the battery ?\nAshok Jaiswal: A button or an api in firmware to turn laser on/off\nLalith Kumar: Noted. And about charging? Do you mean battery voltage/percentage indication on the UI?\nAshok Jaiswal: Battery charging level\nLalith Kumar: @\u2068Ashok Jaiswal\u2069 we ran out of I/O pins on the XIAO-ESP32S3 and there is no place to connect the \u2018Battery voltage' detection circuit. ESP-ROLL was using \u2018I/O 6' and",
+      "pillar": "firmware",
+      "tags": [
+        "firmware"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 224,
+      "date": "2/3/2026",
+      "dateLabel": "Mar 2, 2026",
+      "messageCount": 4,
+      "mediaCount": 0,
+      "participants": [
+        "Lalith Kumar",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Lalith Kumar: @\u2068Ashok Jaiswal\u2069 Got a couple of points to discuss. Kindly let me know a time so that we can get on a meet and discuss.Thanks",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 225,
+      "date": "3/3/2026",
+      "dateLabel": "Mar 3, 2026",
+      "messageCount": 1,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 227,
+      "date": "5/3/2026",
+      "dateLabel": "Mar 5, 2026",
+      "messageCount": 3,
+      "mediaCount": 4,
+      "participants": [
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001592-VIDEO-2026-03-05-16-37-57.mp4",
+          "type": "video"
+        },
+        {
+          "file": "00001595-PHOTO-2026-03-05-18-12-02.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001596-PHOTO-2026-03-05-18-12-02.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001597-PHOTO-2026-03-05-18-12-02.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: OLD motor - had high rpm & less torque.\nAshok Jaiswal: thanks for sharing",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 228,
+      "date": "6/3/2026",
+      "dateLabel": "Mar 6, 2026",
+      "messageCount": 1,
+      "mediaCount": 0,
+      "participants": [
+        "Lalith Kumar"
+      ],
+      "mediaFiles": [],
+      "summary": "Lalith Kumar: Hi Team, I\u2019m a bit unwell, won\u2019t be available today. Pls leave your queries if any, will get back to you on Monday.",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 230,
+      "date": "8/3/2026",
+      "dateLabel": "Mar 8, 2026",
+      "messageCount": 19,
+      "mediaCount": 1,
+      "participants": [
+        "Prithu Hazarika",
+        "~\u202fAjay",
+        "Ashok Jaiswal",
+        "~\u202fAmeya Mistry"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001621-Pawme_Assembly.STEP",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: Looks like this, did not come out very well and complete\nPrithu Hazarika: Please do share more videos when you print more parts next time.\n~\u202fAjay: Didnt got, what do you mean?\n~\u202fAjay: This is the Printer generated Timelapse and cannot be altered, what changes are you suggesting?\nPrithu Hazarika: I meant to say that the video did not come out very well because of the lighting \u2014 and also the video will look better if there are many parts on the bed\nAshok Jaiswal: looking fantastic",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 231,
+      "date": "9/3/2026",
+      "dateLabel": "Mar 9, 2026",
+      "messageCount": 2,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: Looking awesome",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 233,
+      "date": "11/3/2026",
+      "dateLabel": "Mar 11, 2026",
+      "messageCount": 9,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal",
+        "Prithu Hazarika",
+        "~\u202fAmeya Mistry"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: @\u2068~Ameya Mistry\u2069 pls send whatever you have so we can go for red dot awards\nAshok Jaiswal: Or it would be too late\nPrithu Hazarika: @\u2068Ashok Jaiswal\u2069 and @\u2068~Ameya Mistry\u2069\n~\u202fAmeya Mistry: Might be too tight for me today, im working UK shift, @\u2068Ashok Jaiswal\u2069 whats your availability tomorrow morning first half ?\nAshok Jaiswal: @\u2068~Ameya Mistry\u2069\nAshok Jaiswal: lets do 630pls",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 234,
+      "date": "12/3/2026",
+      "dateLabel": "Mar 12, 2026",
+      "messageCount": 18,
+      "mediaCount": 7,
+      "participants": [
+        "Prithu Hazarika",
+        "Ashok Jaiswal",
+        "~\u202fAmeya Mistry",
+        "~\u202fAjay"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001636-PHOTO-2026-03-12-00-44-43.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001637-PHOTO-2026-03-12-00-44-43.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001638-PHOTO-2026-03-12-00-44-43.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001639-PHOTO-2026-03-12-00-44-44.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001642-VIDEO-2026-03-12-04-10-40.mp4",
+          "type": "video"
+        },
+        {
+          "file": "00001644-VIDEO-2026-03-12-04-19-24.mp4",
+          "type": "video"
+        },
+        {
+          "file": "00001659-PHOTO-2026-03-12-14-38-18.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: @\u2068Ashok Jaiswal\u2069\nPrithu Hazarika: Also wanted to ask you what shall we do about the treat-dispenser?\nPrithu Hazarika: The esp hosted web application now stream live video seamlessly with :\nPrithu Hazarika: More updates coming soon..\nAshok Jaiswal: We will add dispenser as stretched goal, if we achieve 1 million, then we will work on it\nAshok Jaiswal: @\u2068~Ameya Mistry\u2069 ! You available this morning ?",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 236,
+      "date": "14/3/2026",
+      "dateLabel": "Mar 14, 2026",
+      "messageCount": 18,
+      "mediaCount": 2,
+      "participants": [
+        "~\u202fAmeya Mistry",
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001664-VIDEO-2026-03-14-14-45-06.mp4",
+          "type": "video"
+        },
+        {
+          "file": "00001666-VIDEO-2026-03-14-14-49-56.mp4",
+          "type": "video"
+        }
+      ],
+      "summary": "~\u202fAmeya Mistry: @\u2068Ashok Jaiswal\u2069 @\u2068Prithu Hazarika\u2069  This doc includes the Summary and Renders, it would be great if you can go through this once, we can modify things if required.\nPrithu Hazarika: \u200eThis message was deleted.\nPrithu Hazarika: @\u2068Ashok Jaiswal\u2069\nAshok Jaiswal: @\u2068~Ameya Mistry\u2069 @\u2068Prithu Hazarika\u2069 ! Red dot award update pls\nAshok Jaiswal: Wow so cool\nAshok Jaiswal: We should add this into patent",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 237,
+      "date": "15/3/2026",
+      "dateLabel": "Mar 15, 2026",
+      "messageCount": 3,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal",
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: did we file the red dot?\nPrithu Hazarika: Not yet, Ashok, me and Ameya had a call yesterday. Today, we will be filing it.",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 238,
+      "date": "16/3/2026",
+      "dateLabel": "Mar 16, 2026",
+      "messageCount": 2,
+      "mediaCount": 2,
+      "participants": [
+        "Prithu Hazarika"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001684-PHOTO-2026-03-16-00-22-05.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001687-PHOTO-2026-03-16-00-40-50.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: Can we have the mobile phone being held in Hand?\nPrithu Hazarika: The phone Lying on the floor does not communicate the product very well",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 242,
+      "date": "20/3/2026",
+      "dateLabel": "Mar 20, 2026",
+      "messageCount": 3,
+      "mediaCount": 1,
+      "participants": [
+        "~\u202fAmeya Mistry",
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001688-PHOTO-2026-03-20-10-48-12.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "~\u202fAmeya Mistry: Yes, will do\nPrithu Hazarika: @\u2068Ashok Jaiswal\u2069\nAshok Jaiswal: got it, thanks, will try it",
+      "pillar": "design",
+      "tags": [
+        "design"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 243,
+      "date": "21/3/2026",
+      "dateLabel": "Mar 21, 2026",
+      "messageCount": 2,
+      "mediaCount": 4,
+      "participants": [
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001693-PHOTO-2026-03-21-13-05-44.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001694-VIDEO-2026-03-21-16-09-48.mp4",
+          "type": "video"
+        },
+        {
+          "file": "00001695-VIDEO-2026-03-21-16-09-48.mp4",
+          "type": "video"
+        },
+        {
+          "file": "00001696-VIDEO-2026-03-21-16-09-49.mp4",
+          "type": "video"
+        }
+      ],
+      "summary": "Ashok Jaiswal: What is wifi password\nAshok Jaiswal: Awesome - this one we use for the video ?",
+      "pillar": "media",
+      "tags": [
+        "media"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 245,
+      "date": "23/3/2026",
+      "dateLabel": "Mar 23, 2026",
+      "messageCount": 1,
+      "mediaCount": 2,
+      "participants": [
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001698-PHOTO-2026-03-23-19-38-22.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001699-PHOTO-2026-03-23-19-49-51.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Ashok Jaiswal: :81/stream?t=1774270218803:1  GET http://192.168.68.111:81/stream?t=1774270218803 net::ERR_EMPTY_RESPONSE",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 246,
+      "date": "24/3/2026",
+      "dateLabel": "Mar 24, 2026",
+      "messageCount": 12,
+      "mediaCount": 2,
+      "participants": [
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001711-PHOTO-2026-03-24-18-51-51.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001712-PHOTO-2026-03-24-18-51-52.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "Prithu Hazarika: Not sure why this issue is happening. Let us check and get back to you tomorrow.\nPrithu Hazarika: Meanwhile, can you please try from your mobile phone and see if it works?\nPrithu Hazarika: Please make sure that it is powered on both via the USBC through the head, and after powering ON from the bottom switch as well.\nAshok Jaiswal: So just power it from top right? Or need to power from bottom?\nAshok Jaiswal: I turned the switch to ON position , can move the wheel, laser pointer\nAshok Jaiswal: But camera feed",
+      "pillar": "software",
+      "tags": [
+        "software"
+      ],
+      "hasMedia": true
+    },
+    {
+      "dayNumber": 247,
+      "date": "25/3/2026",
+      "dateLabel": "Mar 25, 2026",
+      "messageCount": 3,
+      "mediaCount": 0,
+      "participants": [
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: I noticed right now it\u2019s straight - which is fine too, we can move the robot",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 250,
+      "date": "28/3/2026",
+      "dateLabel": "Mar 28, 2026",
+      "messageCount": 1,
+      "mediaCount": 0,
+      "participants": [
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [],
+      "summary": "Ashok Jaiswal: thanks mate",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": false
+    },
+    {
+      "dayNumber": 251,
+      "date": "29/3/2026",
+      "dateLabel": "Mar 29, 2026",
+      "messageCount": 17,
+      "mediaCount": 5,
+      "participants": [
+        "~\u202fAjay",
+        "Prithu Hazarika",
+        "Ashok Jaiswal"
+      ],
+      "mediaFiles": [
+        {
+          "file": "00001721-PHOTO-2026-03-29-00-00-06.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001722-PHOTO-2026-03-29-00-00-06.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001723-PHOTO-2026-03-29-00-00-06.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001724-PHOTO-2026-03-29-00-00-07.jpg",
+          "type": "image"
+        },
+        {
+          "file": "00001726-PHOTO-2026-03-29-00-02-11.jpg",
+          "type": "image"
+        }
+      ],
+      "summary": "~\u202fAjay: We have assembled one set from the painted part.\nPrithu Hazarika: @\u2068Ashok Jaiswal\u2069\nAshok Jaiswal: looking very nice\nAshok Jaiswal: why do we have those sking things at t the bottom?\nAshok Jaiswal: because it falls forward?\nAshok Jaiswal: Are we going to improve it? This looks really bad",
+      "pillar": "build_in_public",
+      "tags": [
+        "build_in_public"
+      ],
+      "hasMedia": true
+    }
+  ],
+  "totalDays": 157,
+  "dayRange": {
+    "from": 0,
+    "to": 251
+  },
+  "totalMedia": 376,
+  "totalMessages": 1285,
+  "mediaDates": 97
+}
