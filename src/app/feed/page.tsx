@@ -240,7 +240,7 @@ export default async function FeedPage() {
               <span style={{ color: 'var(--text-secondary)' }}>Build photos</span>
               <span style={{ fontWeight: 600 }}>355+</span>
             </div>
-            <div style={{ display: 'flex', justifyContent 'space-between' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between' }}>
               <span style={{ color: 'var(--text-secondary)' }}>Dev videos</span>
               <span style={{ fontWeight: 600 }}>27+</span>
             </div>

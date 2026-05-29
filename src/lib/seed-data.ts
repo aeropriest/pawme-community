@@ -9,7 +9,7 @@ export interface SeedPost {
   content: string;
   author: 'ashok' | 'pawme_bot' | 'prithu' | 'lalith' | 'hitesh' | 'ameya' | 'community';
   authorName: string;
-  pillar: 'build_in_public' | 'product_showcase' | 'founder_voice' | 'community_prompt' | 'market_context';
+  pillar: 'build_in_public' | 'product_showcase' | 'founder_voice' | 'community_prompt' | 'market_context' | 'design' | 'media' | 'software' | 'milestone' | 'partnership' | 'manufacturing';
   tags: string[];
   upvotes: number;
   commentCount: number;
